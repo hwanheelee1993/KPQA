@@ -5,7 +5,7 @@ This repository provides an evaluation metric for generative question answering 
 <h2> Dataset </h2>
 We provide human judgments of correctness for 4 datasets:MS-MARCO NLG, AVSD, Narrative QA and SemEval 2018 Task 11 (SemEval). <br>
 For MS-MARCO NLG and AVSD, we generate the answer using two models for each dataset.
-For NarrativeQA and SemEval, we preprocessed the dataset from [Evaluating Question Answering Evaluation](https://www.aclweb.org/anthology/D19-5817/).
+For NarrativeQA and SemEval, we preprocessed the dataset from [Evaluating Question Answering Evaluation](https://www.aclweb.org/anthology/D19-5817/). <br>
 
 <h2> Usage </h2>
 
