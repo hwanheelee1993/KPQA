@@ -13,3 +13,6 @@ We provide the pre-trained KPQA model in the following link. (TBD)
 
 <h3> 3. Compute Metric </h3>
 You can compute KPQA-metric using "compute_correlation.py"
+
+<h3> Train KPQA (optional) </h3>
+You can train your own KPQA model using the provided dataset or your own dataset using "train.py".
