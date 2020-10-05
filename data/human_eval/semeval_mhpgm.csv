@@ -1,0 +1,301 @@
+,query,hyps,refs1,scores,Bleu1,Bleu4,RougeL,Meteor
+0,where were they heating the food?,on the stove,on the stove/home,1.0,0.6666666661999999,4.27e-06,0.6666666667,0.2566114173
+1,how many people were making the food?,the family,just one.,0.2,5e-16,2.66e-11,0.0,0.0
+2,was it leftover from home or takeout?,yes,from home,0.2,3.68e-16,2.07e-09,0.0,0.0
+3,what is dangerous about this?,yes,"it creates a flame to cook with and if you aren't careful, it could start a fire in your home.",0.2,7.580000000000001e-25,4.26e-18,0.0,0.0
+4,is it hard using a gas stove?,it was it was it,no.,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+5,how did they like the food?,"yes , they were it",they loved it.,0.2,0.3999999999,2.02e-12,0.5236051502,0.1509433962
+6,why do you need to have a flame to cook?,it was the food was the food,to have the heat,0.2,0.1428571428,1.04e-12,0.1912225705,0.05925925926
+7,were they heating leftovers?,yes,yes they were reheating leftovers.,1.0,0.01831563885,5.79e-07,0.2975609756,0.12244897960000001
+8,who was cooking in the kitchen?,the family,mother.,0.2,5e-16,2.66e-11,0.0,0.0
+9,who is making the food?,the family,the narrator's mother.,0.2,0.18393972039999998,5.5e-08,0.3144329897,0.04848484848
+10,what type of food were they cooking?,leftover food,leftovers,1.0,5e-16,2.66e-11,0.0,0.0
+11,how did the food taste?,the food was warm,delicious.,0.2,2.5e-16,4.519999999999999e-16,0.0,0.0
+12,have they read anything else by that book's author?,no,"yes, the first 4 game of throne books",0.2,3.35e-19,1.89e-12,0.0,0.0
+13,did they have outstanding fines on their library card?,"no , they pay it",no because they didn't pay any money when checking out,0.5,0.1807165271,6.73e-13,0.3512476008,0.08639308855000001
+14,why did they borrow a book?,to read to the new season,they wanted to read it before the new season started,0.2,0.4278475991,4.1200000000000005e-05,0.5980392157,0.2434709557
+15,what is the genre of the book?,a library card,fantasy/fiction,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+16,what happens if they don't return the book in time?,yes,receive a fine,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+17,did they need anything to borrow the book?,library card,a library card,1.0,0.6065306590999999,0.0006065306592000001,0.7721518987,0.4183967843
+18,when do they need to return the book?,two weeks,in two weeks,1.0,0.6065306590999999,0.0006065306592000001,0.7721518987,0.3939543604
+19,did they have to pay anything to borrow the book?,library card,"no, it was free",0.2,1.1200000000000002e-16,5.93e-12,0.0,0.0
+20,when did they go to the library?,the other day,after finding their library card,0.2,1.71e-16,5.83e-14,0.0,0.0
+21,when must they return the book?,the other weeks,in 2 weeks,0.2,0.33333333309999996,6.39e-10,0.3333333333,0.1791044776
+22,why did they throw away the old batteries?,it was the batteries showed,they were no longer useful,0.2,2e-16,3.0200000000000003e-16,0.0,0.051795391669999996
+23,why did they need to reset the clock?,yes,the batteries had died and the clock was wrong,0.2,3.35e-19,1.89e-12,0.0,0.0
+24,what size of batteries were they?,two batteries,aa-sized batteries,0.2,0.4999999995,1.5e-07,0.5,0.1454545455
+25,how did they know it was time to change the batteries?,yes,the alarm clocked had stopped.,0.2,1.83e-17,1.03e-10,0.0,0.0
+26,why did they need to change the batteries?,batteries was the batteries,the clock stopped working indicating that the batteries may have died.,0.2,0.08688697168,2.95e-09,0.2459677419,0.08510818031999999
+27,who helped to change the batteries?,the batteries,no one helped,0.2,3.03e-16,1.61e-11,0.0,0.0
+28,what did they do to the clock after they put in the new batteries?,"yes , they removed the batteries",close the lid and adjust the time.,0.2,0.1410802874,1.09e-12,0.15174129349999999,0.03112840467
+29,for how long did the clock need batteries?,yes,less than a day,0.2,4.98e-17,2.7999999999999996e-10,0.0,0.0
+30,who changed the batteries in the clock?,the narrator,the speaker,1.0,0.4999999995,1.5e-07,0.5,0.1
+31,how did they dispose of the old batteries?,"yes , they checked the batteries batteries",they threw them away,0.2,0.1428571428,1.04e-12,0.1912225705,0.03720930233
+32,why did the clock need new batteries?,it was the batteries 's batteries,because the batteries were dead,0.2,0.3333333333,8.63e-09,0.3696969697,0.1736980589
+33,was changing the batteries difficult?,yes,no,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+34,how hot was the sauna?,yes,hot enough for a warm steam,0.2,6.74e-18,3.79e-11,0.0,0.0
+35,when did they enter the sauna?,later in the week,after changing into swimming suit,0.3,1.95e-16,3.52e-16,0.0,0.032820512819999995
+36,did they enjoy the sauna?,yes,"yes, they felt much better afterwards",1.0,0.002478752172,7.84e-08,0.2202166065,0.08053691275000001
+37,did they have payment up front?,yes,"yes, they paid to enter",1.0,0.006737946986,2.1300000000000001e-07,0.25311203320000003,0.11267605630000001
+38,who went to the sauna?,the friend,the author,0.2,0.4999999995,1.5e-07,0.5,0.1
+39,how hot is it in there?,yes,hot enough for a warm steam,0.2,6.74e-18,3.79e-11,0.0,0.0
+40,why did they go to the sauna?,to relax,to try to relax,1.0,0.36787944079999996,0.0003678794409,0.6288659794,0.2581998173
+41,where do you go to check in?,a room,at the front desk.,0.2,1.84e-16,9.779999999999999e-12,0.0,0.0972972973
+42,what did they do before they got in the sauna?,"yes , they went back back clothes",changed into a bathing suit,0.2,1.4299999999999998e-16,1.8600000000000001e-16,0.0,0.0
+43,how many people were with them?,yes,none,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+44,"all in all, would they go back to the museum ?",yes,"yes, because there were more things to see",1.0,0.00033546262719999997,1.06e-08,0.17478510030000002,0.08053691275000001
+45,did they like the museum?,yes,"yes, they learned so much",1.0,0.006737946986,2.1300000000000001e-07,0.25311203320000003,0.11267605630000001
+46,who went to the museum?,the narrator,narrator,1.0,0.4999999998,1.5e-07,0.7093023256000001,0.380952381
+47,where did they cook?,in the toaster,in their kitchen,0.2,0.33333333309999996,6.39e-10,0.3333333333,0.08
+48,where did the people eat breakfast?,in the toaster,kitchen,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+49,what did they drink with breakfast?,english sandwich,coffee,0.2,5e-16,2.66e-11,0.0,0.0
+50,will they fertilize the tree?,"yes , they plant they plant",yes,0.5,0.1666666666,1.29e-12,0.3279569892,0.275862069
+51,why are trees important?,yes,create o2,0.2,3.68e-16,2.07e-09,0.0,0.0
+52,were they saplings or older trees?,yes,saplings,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+53,what did planting the tree involve?,a tree,"calling the utility company, digging a hole, and making sure it grows healthy",0.2,0.0007517195957,2.25e-10,0.1033898305,0.013961605580000001
+54,how did they dig the hole to plant the tree?,yes,with a shovel,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+55,what did they use to make the bonfire?,a newspaper,wood logs,0.2,5e-16,2.66e-11,0.0,0.0
+56,how long did it take to build the fire?,a few days,less than an hour,0.2,2.39e-16,8.14e-14,0.0,0.0
+57,who started the fire?,the narrator,the author,1.0,0.4999999995,1.5e-07,0.5,0.1
+58,what did they use for fuel?,newspaper and wood,wood.,0.6,0.3333333332,6.39e-10,0.5495495495,0.3333333333
+59,did they cook over the fire?,yes,yes once there were a lot of hot coals,1.0,0.00033546262719999997,1.06e-08,0.17478510030000002,0.07228915663
+60,why were they having a bonfire?,it was a hot,they were teaching about cooking with a campfire,0.2,0.09196986025000001,9.350000000000002e-13,0.1572164948,0.07136933969999999
+61,why did they put the fire out,it was dirty,to make sure the fire didn't spread.,0.2,6.3e-17,2.15e-14,0.0,0.0
+62,when did the fire go out?,when they were ready,after they were done.,0.7,0.4999999998,1.7e-08,0.5,0.1592232207
+63,who lit the fire,the narrator,the teacher,1.0,0.4999999995,1.5e-07,0.5,0.1
+64,where did they make the toast?,in the toaster,in their kitchen.,0.8,0.33333333309999996,6.39e-10,0.3333333333,0.08
+65,who is toasting the bread?,the toaster,the narrator,0.2,0.4999999995,1.5e-07,0.5,0.1
+66,what setting did they use to toast the bread?,yes,medium,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+67,where was the toaster stored before making the toast?,in the toaster,in the cabinet.,0.2,0.6666666661999999,4.27e-06,0.6666666667,0.19106786480000001
+68,what kind of bread do they like to put in the toaster?,bread,sliced fresh bread.,0.2,0.135335283,4.28e-06,0.4586466165,0.14814814810000002
+69,did the toast come out too dark?,it was it was it was it,"no, the person choose the darkness of the toast before putting it in the toaster.",0.2,0.03949329236,2.89e-13,0.08122503329,0.015065913369999998
+70,was there food offered on the train?,yes,"yes, there was a dining car.",1.0,0.002478752172,7.84e-08,0.2202166065,0.1043478261
+71,how long did it take to get through security?,a few minutes,less than a day,0.6,0.23884377,4.58e-10,0.27853881280000004,0.050955414010000005
+72,what are they wearing for the flight?,yes,jacket,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+73,when do they expect the letter to arrive to its destination?,yes,one week,0.2,3.68e-16,2.07e-09,0.0,0.0
+74,how did the envelope get stamped?,yes,by the sender,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+75,who was the letter sent to?,yes,their friend shelley,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0393442623
+76,how did they get a stamp for the letter?,yes,at the post office.,0.2,4.98e-17,2.7999999999999996e-10,0.0,0.0
+77,what is in the letter?,a heart,information about their trip to alaska,0.2,6.770000000000001e-17,3.6000000000000004e-12,0.0,0.0
+78,why are they mailing the letter?,it was a friend shelly,to tell best friend about a trip,1.0,0.2681280183,1.3500000000000001e-12,0.1618037135,0.11347517730000001
+79,why did they write the letter?,it was a friend 's friend,they missed their friend.,0.2,0.1666666666,1.29e-12,0.2074829932,0.1420118343
+80,why did they take the train?,to visit to visit,to visit grandma who lived upstate.,0.4,0.3032653297,1.03e-08,0.38607594939999995,0.1458533319
+81,where did they travel to?,grandma upstate,grandma's house upstate.,1.0,0.36787944079999996,6.54e-08,0.6288659794,0.2341463415
+82,did they sleep on the train?,yes,no,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+83,how long did they wait at the station?,a few minutes,a short while,0.7,0.33333333309999996,6.39e-10,0.3333333333,0.2554354528
+84,how long did they wait for the train?,a short,a short time,0.5,0.6065306590999999,0.0006065306592000001,0.7721518987,0.3939543604
+85,how much luggage did they bring on the train?,a short bag,one bag was brought.,0.2,0.23884377,4.58e-10,0.27853881280000004,0.15286624199999999
+86,when will it be here?,in 30 minutes,it took 30 minutes.,1.0,0.4776875401,3.06e-06,0.5570776256000001,0.3001065939
+87,did they order any other entrees?,yes,no,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+88,where did they order it?,yes,from domino's,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+89,would they order the same thing again?,yes,"yes, it was good",1.0,0.01831563885,5.79e-07,0.2975609756,0.14814814810000002
+90,did they use a coupon?,yes,no,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+91,which restaurant did they order the pizza from?,pizza,domino's,0.2,3.68e-16,2.07e-09,0.0,0.0
+92,what door did the pizza get delivered to?,the pizza on the pizza,the front door,0.2,0.2,1.6999999999999998e-12,0.2618025751,0.054794520549999996
+93,how much of a tip was given?,yes,$2.00,0.2,3.68e-16,2.07e-09,0.0,0.0
+94,how did they pay for their groceries?,with debit card,they used a debit card.,1.0,0.34227807909999997,2.19e-06,0.4784313725,0.2755786512
+95,what did they do when they had their groceries?,yes,packed them into their car and drove home,0.2,9.12e-19,5.13e-12,0.0,0.015533980580000002
+96,when did they arrive?,this night before work,after work.,0.2,0.2499999999,2.54e-12,0.35465116280000003,0.24489795920000001
+97,did they have to ask for help?,yes,no,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+98,who started the fire?,the narrator,their husband lit it.,0.2,1.84e-16,9.779999999999999e-12,0.0,0.0
+99,where did they make the bonfire?,in the shed,their fire pit,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+100,how long did it take to build the fire?,a few minutes,few minutes.,1.0,0.6666666664,4.27e-06,0.8299319728,0.4660191825
+101,who built the bonfire?,the family,their husband.,0.2,5e-16,2.66e-11,0.0,0.0
+102,had they ever built a bonfire before this one?,yes,"yes, they had built one before?",1.0,0.002478752172,7.84e-08,0.2202166065,0.1043478261
+103,when did they put the logs in the fire pit?,when they put the dry wood,after they gathered all the logs.,0.2,0.3333333332,1.5400000000000001e-12,0.3333333333,0.07766990291
+104,where did they build the bonfire?,in the shed,their fire pit,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+105,what did they do at the bonfire?,put the stories,talk and cook smores.,0.2,2.39e-16,8.14e-14,0.0,0.0
+106,why did that person call?,it was to talk to talk to talk to talk to talk to talk,to catch up with family and friends,0.4,0.07142857142,4.52e-13,0.10132890369999999,0.02675585284
+107,do they know them?,yes,yes they do,1.0,0.135335283,4.28e-06,0.4586466165,0.1875
+108,why was the caller calling this person?,it was to talk to talk,to keep in touch,0.4,0.1666666666,1.29e-12,0.2074829932,0.04819277108
+109,how did they answer the phone?,"yes , they used the phone to the phone",swiping the green phone icon.,0.2,0.22222222219999999,9.02e-13,0.30123456789999997,0.11764705880000001
+110,"was it a personal call, or a business call?",it was it was it was to a call,personal call,0.2,0.11111111109999999,7.58e-13,0.2053872054,0.1777777778
+111,how pleasant was the phone call?,`` a fun,very nice,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+112,did they know the caller?,yes,yes they did,1.0,0.135335283,4.28e-06,0.4586466165,0.1875
+113,why did they dry the plates?,to washed the dishes,to remove excess water,0.2,0.2499999999,2.54e-12,0.25,0.0412371134
+114,when did they open the dishwasher?,last night after dinner,after the dishwasher washed the dishes,0.3,0.1516326649,1.5400000000000001e-12,0.19303797469999998,0.0350877193
+115,were there any other people around?,yes,no,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+116,how many people unloaded?,the narrator,1,0.2,5e-16,2.66e-11,0.0,0.0
+117,why did they unloaded the dishwasher?,to washed the dishes,it was done cleaning,0.2,2.5e-16,4.519999999999999e-16,0.0,0.0
+118,did they use a mop?,yes,yes after sweeping,1.0,0.135335283,4.28e-06,0.4586466165,0.1875
+119,is it hard work to clean the flat?,yes,no.,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+120,where did they vacuum?,in the flat,rooms with rugs and carpet,0.3,1.71e-16,5.83e-14,0.0,0.0
+121,why did the flat needed cleaning?,it was dirty,it was a big mess.,1.0,0.34227807909999997,2.19e-06,0.4784313725,0.11373087189999999
+122,was the meal good?,yes,yes it was delicious,1.0,0.04978706827,1.57e-06,0.3609467456,0.16551724140000001
+123,why are there two glasses at each place setting?,yes,for water and drink of choice,0.2,6.74e-18,3.79e-11,0.0,0.0
+124,how many cups were in a setting?,one,two.,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+125,what order did they set the items on the dining table?,"dinner , dinner , and soda","placemat, dish, napkin, silverware, glass",0.2,0.20217688649999999,9.31e-13,0.25738396620000004,0.04456824513
+126,why were the clothes separated into separate stacks?,they were all the clothes,so they could wash like clothes with like clothes,0.2,0.1797315856,9.08e-13,0.27171492199999997,0.09302325581
+127,are the clothes dry?,yes,yes the clothes were dried,1.0,0.01831563885,5.79e-07,0.2975609756,0.12244897960000001
+128,did they immediately put the clothes away after folding them?,they put they put it,"no, they put the folded clothes in the rooms of the people who own the clothes",0.2,0.0362871813,1.0300000000000002e-09,0.1655359566,0.07348764031
+129,when did they start folding clothes?,after they put the clothes,after they were dry.,0.2,0.3999999999,1.14e-08,0.4535315985,0.14811462390000002
+130,how did they feed the cat?,with a fork,quick,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+131,whose job was it to clean the cat's food dish between feedings?,yes,the cat's owner,0.2,4.98e-17,2.7999999999999996e-10,0.0,0.0
+132,who is feeding the cat?,the narrator,narrator,1.0,0.4999999998,1.5e-07,0.7093023256000001,0.380952381
+133,what were they doing before they fed the cat?,yes,just waking up,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+134,what did the cat eat?,a brown food,fishy wet cat food,0.5,0.23884377,4.58e-10,0.27853881280000004,0.1066666667
+135,how many persons fed the cat?,the cat,the cat's owner,0.2,0.36787944079999996,0.0003678794409,0.6288659794,0.23159741190000002
+136,who went on the date?,the husband,a woman and her husband.,0.6,0.11156508,3.34e-08,0.2652173913,0.13895844710000002
+137,how did they get to where they were going?,yes,walking,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+138,did they know this person personally before the date?,it was it was it,yes- it's her husband,0.2,0.19999999989999998,1.6999999999999998e-12,0.2,0.04324324324
+139,does the date sound like fun?,it was beautiful,yes,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+140,how did they go on a date?,yes,they walked to the park for a picnic.,0.2,9.12e-19,5.13e-12,0.0,0.0
+141,"what did they use to get there, car, bus, or walking?",picnic blanket,walking,0.2,5e-16,2.66e-11,0.0,0.0
+142,who uses this bathroom?,the narrator,guests and family,0.2,3.03e-16,1.61e-11,0.0,0.0
+143,what cleaning products did they use?,"glass cleaner , toilet cleaner , toilet cleaner",glass and toilet bowl cleaners.,0.8,0.25,1.04e-12,0.3210526316,0.1708185053
+144,what tools did they use to clean the bathroom?,"glass cleaner , toilet cleaner","glass cleaner, toilet bowl cleaner, paper towels, and a scrubber",0.6,0.2018965179,0.1427623969,0.5143338954,0.244589661
+145,where did the water come from?,the bathroom,the sink.,0.7,0.4999999995,1.5e-07,0.5,0.1
+146,what is the weather expected to be where they are traveling?,yes,sunny and hot,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+147,who did they travel with?,yes,their family,0.2,3.68e-16,2.07e-09,0.0,0.0676056338
+148,who is going on the holiday trip?,the narrator,the barker family,0.2,0.3032653296,9.07e-08,0.38607594939999995,0.06106870228999999
+149,did they visit any tourist attractions?,yes,"yes, they did",1.0,0.04978706827,1.57e-06,0.3609467456,0.16551724140000001
+150,who did they go on vacation with?,yes,their family,0.2,3.68e-16,2.07e-09,0.0,0.0676056338
+151,what should they wear?,a massage massage,swimsuit or nude,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+152,why did they go to the sauna?,to treat to something to something to something to something to something to something to,they were stressed out,0.2,6.67e-17,7.43e-17,0.0,0.0
+153,was this for social purposes?,"yes , to treat to treat","no, relaxation",0.2,0.1666666666,1.29e-12,0.23643410850000002,0.06611570248
+154,when did they leave the sauna and go to the shower?,after they were work,when they were relaxed and ready to leave,0.2,0.18393972050000001,6.25e-09,0.3144329897,0.07463588469
+155,who went to the sauna?,the friends,the author,0.2,0.4999999995,1.5e-07,0.5,0.1
+156,did they have a good experience?,yes,"yes, it was the perfect relaxation",1.0,0.002478752172,7.84e-08,0.2202166065,0.1043478261
+157,when did they enter the sauna?,after they were work,after the message.,0.2,0.2499999999,2.54e-12,0.2932692308,0.07766990291
+158,how long did they wait?,a short appointment,a few minutes,0.2,0.33333333309999996,6.39e-10,0.3333333333,0.057142857139999996
+159,were they in a hospital?,yes,no,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+160,were they sick?,the nurse,yes,0.2,5e-16,2.66e-11,0.0,0.0
+161,who went with them to the doctors?,the receptionist,no one,0.2,5e-16,2.66e-11,0.0,0.0
+162,did the nurses help?,the narrator was the receptionist,yes,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+163,why were they having a bonfire?,to wanted to be fire,for fun.,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+164,did the fire keep them warm?,the wood was the wood,probably yes.,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+165,how long did the fire take to start?,a few minutes,a little while.,0.7,0.33333333309999996,6.39e-10,0.3333333333,0.19106786480000001
+166,who went to the bonfire?,the friends,the story teller and friends,0.6,0.22313015989999999,3.9700000000000005e-08,0.5304347826,0.1608040201
+167,what day did they make the bonfire?,yes,yesterday.,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+168,where did they get the wood for the bonfire?,back yard,in the backyard.,1.0,3.03e-16,1.61e-11,0.0,0.17109009690000002
+169,what kind of wood did they use to build the bonfire?,"fire , wood , wood",dry wood.,0.2,0.2,1.6999999999999998e-12,0.3096446701,0.1777777778
+170,who started the bonfire?,the friends,the story teller,0.2,0.3032653296,9.07e-08,0.38607594939999995,0.06106870228999999
+171,did they need a travel agent?,yes,no,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+172,was it hard to make the reservations?,the flight,no,0.2,5e-16,2.66e-11,0.0,0.0
+173,when did they make the reservation?,yes,yesterday,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+174,which airline are they flying on?,the flight reservation,american airlines,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+175,how did they pay for their reservation?,yes,credit card online,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+176,did they make the reservations in person or over the phone?,the reservation,neither they did it online,0.2,1.1200000000000002e-16,5.93e-12,0.0,0.0
+177,are they camping in a tent?,no,yes,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+178,do they have all the supplies?,"no , they put the wood",yes,0.2,1.67e-16,2.3e-16,0.0,0.0
+179,what was in the bonfire?,yes,wood,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+180,where were they going to set up camp at?,yes,at the campgrounds,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+181,how long did it take to plan the trip?,a four hour,one week,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+182,where are they camping?,yes,at a campground,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+183,how did they keep lunch cold?,"yes , they put a cooler",probably with a cooler,0.5,0.3333333333,8.63e-09,0.4149659864,0.22217193579999997
+184,did they bring food?,"yes , they all a drinks",yes,0.6,0.1666666666,1.29e-12,0.3279569892,0.2962962963
+185,did they ride the waves?,yes,no,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+186,what type of food was barbecued?,"burger , hot dog",hot dogs and burgers.,1.0,0.2499999999,2.54e-12,0.25,0.22928143780000002
+187,where was the barbecue held?,at the beach,at the person's house,0.2,0.34227807909999997,2.19e-06,0.4784313725,0.1032799269
+188,what kind of food was being made at the bbq?,yes,all american.,0.2,3.68e-16,2.07e-09,0.0,0.0
+189,when are they going to start cooking food for the barbecue?,after a few hours,when their friends arrived.,0.2,2.5e-16,4.519999999999999e-16,0.0,0.0
+190,how many people came to eat the meal?,one,20.,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+191,how long did the barbecue last?,a few hours,several hours.,1.0,0.3333333332,6.39e-10,0.4149659864,0.7955801105
+192,how long did the food take to cook?,a few hours,thirty minutes,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.156097561
+193,who is supplying the meats that will be grilled?,the friends,the narrator,0.2,0.4999999995,1.5e-07,0.5,0.1
+194,where was the shopping center?,a shopping 's stores,3 miles from her home,0.2,1.95e-16,3.52e-16,0.0,0.022429906540000003
+195,why did they need to go shopping?,to buy a new dress,she needed a new dress for a celebration she'll be attending,1.0,0.1479581783,2.07e-05,0.32854578100000004,0.1240083883
+196,how did they get there?,yes,drove a car,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+197,what utensils did they use to scramble the eggs?,a pan,they used a whisk.,0.2,0.18393972039999998,5.5e-08,0.3144329897,0.05405405405
+198,where do they put the eggs after they are stirred in the bowl?,in the pan,in frying pan,1.0,0.6666666661999999,7.6e-10,0.6666666667,0.23880597010000001
+199,what were the eggs cooked in?,a frying pan,the eggs were cooked in a pan.,1.0,0.17573142530000002,2e-10,0.373088685,0.132231405
+200,how many people were involved in cooking?,three,one person cooked.,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+201,why did the eggs cook?,to hungry,the heat made them cook.,0.2,1.1200000000000002e-16,5.93e-12,0.0,0.0
+202,how did they crack the eggs?,"yes , they added a pan",using a small bowl,0.2,0.1666666666,1.29e-12,0.2074829932,0.03883495146
+203,where did they make the eggs?,in the kitchen,in their kitchen.,1.0,0.6666666661999999,7.6e-10,0.6666666667,0.32
+204,how long were they playing tennis for?,a few hours,a couple of hours,1.0,0.4776875401,5.44e-10,0.5570776256000001,0.8041594454000001
+205,were the amateurs or professionals?,yes,they are amateurs.,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+206,who did they play against?,yes,each other,0.2,3.68e-16,2.07e-09,0.0,0.6
+207,where was the list put?,in the store,on their fridge,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+208,what did they write the list on?,yes,paper,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+209,when did they go to the store?,after the week,the day after writing the list,0.2,0.2452529606,2.7999999999999996e-10,0.41924398630000004,0.07305936073
+210,why did they write the list?,to make the fruit,to make sure they were ready for shopping.,0.2,0.18393972050000001,6.25e-09,0.3144329897,0.1290999087
+211,were they outdoors when they made it?,yes,no.,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+212,when did they make the list?,after they went the week,the day before grocery shopping,0.2,0.19999999989999998,1.6999999999999998e-12,0.2,0.03225806452
+213,did they write the list down or put it in a phone?,yes,wrote it down,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+214,did anyone enjoy the fish?,it was it it it it it,"yes, the narrator",0.2,1.4299999999999998e-16,1.8600000000000001e-16,0.0,0.0
+215,did any fish get overcooked?,yes,"it was not mentioned so, no.",0.2,2.48e-18,1.39e-11,0.0,0.0
+216,where were they cooking the fish?,in the oven,the kitchen,0.7,0.3333333332,6.39e-10,0.4149659864,0.09638554217
+217,who ate the fish?,the narrator,the author,1.0,0.4999999995,1.5e-07,0.5,0.1
+218,how did they cook the fish?,"yes , they put it in the oven",baked.,0.7,1.25e-16,1.56e-16,0.0,0.0
+219,how many people can the fish feed?,yes,"he only buys a pound, so one",0.2,9.12e-19,5.13e-12,0.0,0.0
+220,how many people helped cook the fish?,yes,none,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+221,what are they bringing to the pool?,"yes , a book , a book , a book",their towels,0.2,1e-16,1.1899999999999999e-16,0.0,0.05581395348999999
+222,how did they get to the pool?,yes,their mom drove them,0.2,4.98e-17,2.7999999999999996e-10,0.0,0.02774566474
+223,why did they have to wait to enter the pool?,to read,other kids were swimming,0.2,1.84e-16,9.779999999999999e-12,0.0,0.0
+224,why did they want to go swimming?,to bored,to learn how to swim,0.2,0.11156508,3.34e-08,0.2652173913,0.04020100503
+225,how long did dinner take to prepare?,15 minutes,over 15 minutes,1.0,0.6065306590999999,0.0006065306592000001,0.7721518987,0.4183967843
+226,how long did it take them to finish cooking?,15 minutes,it took 15 minutes for dinner.,1.0,0.1353352831,0.0001353352831,0.4586466165,0.2239076541
+227,who prepared the dinner?,the boy,a parent and child,0.6,1.84e-16,9.779999999999999e-12,0.0,0.11091358009999999
+228,were they following a recipe?,it was to dinner,no,0.2,2.5e-16,4.519999999999999e-16,0.0,0.0
+229,how much time did it take to make the food?,15 minutes,under an hour,1.0,3.03e-16,1.61e-11,0.0,0.14014598539999998
+230,how long did dinner take to make?,15 minutes,under an hour,1.0,3.03e-16,1.61e-11,0.0,0.14014598539999998
+231,how did the food taste?,yes,good,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+232,was the tennis court inside or outside?,yes,it was outside,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+233,why were they playing tennis?,to go to go,they wanted to do something outside,0.2,0.1516326649,1.5400000000000001e-12,0.19303797469999998,0.030534351150000003
+234,how did they score a point?,yes,by bouncing twice in the opponent's side,0.2,9.12e-19,5.13e-12,0.0,0.0
+235,where was the tennis court located?,at the park,near the city park,0.6,0.4776875401,5.44e-10,0.5570776256000001,0.172972973
+236,why are they going camping?,mother 's mother,to celebrate mother's day.,0.2,0.34227807909999997,2.19e-06,0.4784313725,0.2273487118
+237,how did they reach their destination?,the narrator,they drove.,0.2,5e-16,2.66e-11,0.0,0.0
+238,what equipment are they bringing?,"yes , they used a truck , a truck , and the",camping equipment.,0.2,8.329999999999999e-17,9.58e-17,0.0,0.0
+239,was more than one person going on the trip?,yes,yes they were.,1.0,0.135335283,4.28e-06,0.4586466165,0.2553191489
+240,who got married?,the bride and their bride and their bride,two of the person's friends from college.,0.2,0.125,8.780000000000001e-13,0.125,0.026936026939999996
+241,where was the wedding located?,in the church,at a church.,1.0,0.33333333309999996,6.39e-10,0.3333333333,0.22928143780000002
+242,when did they leave the ceremony?,when they were in the wedding,after everyone applauded,0.2,1.67e-16,2.3e-16,0.0,0.0
+243,did they have fun?,yes,yes they did.,1.0,0.135335283,4.28e-06,0.4586466165,0.1875
+244,did they have enough firewood,yes,yes they did.,1.0,0.135335283,4.28e-06,0.4586466165,0.1875
+245,why did they build a bonfire,to have a family,so they could cook and have fun.,0.2,0.11809163810000001,1.2e-12,0.1732954545,0.03902439024
+246,why did they have a bonfire?,to have a family,to have a family gathering,0.2,0.7788007827,0.7788007825,0.8714285714,0.38265616140000003
+247,did everyone have a good time at the bonfire?,yes,yes they had a good time.,1.0,0.006737946986,2.1300000000000001e-07,0.25311203320000003,0.1340782123
+248,did they cook any food on the fire?,yes,yes they cooked food.,1.0,0.04978706827,1.57e-06,0.3609467456,0.1340782123
+249,did they cook food over the bonfire?,yes,yes they cooked food.,1.0,0.04978706827,1.57e-06,0.3609467456,0.1340782123
+250,have they seen the movie before?,yes,the person has not seen the movie,0.2,2.48e-18,1.39e-11,0.0,0.02142857143
+251,who rented the movie,the attendant,the narrator of story.,0.2,0.18393972039999998,5.5e-08,0.3144329897,0.05405405405
+252,did they use a coupon to get the movie?,yes,no.,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+253,how many movies did they rent,one,they rented one movie,1.0,0.04978706827,1.57e-06,0.3609467456,0.057553956829999996
+254,was the movie one they'd seen before?,yes,no.,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+255,were they shopping for themselves?,yes,"yes, but also for their children",0.7,0.002478752172,7.84e-08,0.2202166065,0.12244897960000001
+256,how long did they spend there?,a few hours,"three hours, because they shared ice cream after shopping",1.0,0.03232398927,6.199999999999999e-11,0.1402298851,0.055944055939999994
+257,when did they go to the shopping centre?,this weekend,last weekend,0.2,0.4999999995,1.5e-07,0.5,0.6
+258,what did they do after shopping?,"yes , they drove to a food and the food",got ice cream and coffee,0.2,0.09999999999,6.670000000000001e-13,0.1418604651,0.09890909091
+259,did they shop for anyone in particular?,yes,"themselves, their kids",0.2,4.98e-17,2.7999999999999996e-10,0.0,0.0
+260,did they lose the button on the same day they sewed the button on?,yes,no,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+261,did the button look good?,it was it was it was it,yes,0.2,1.4299999999999998e-16,1.8600000000000001e-16,0.0,0.0
+262,why did they need to sew the button?,to button to be work,one button is missing,0.2,0.2,1.6999999999999998e-12,0.2267657993,0.14723926380000002
+263,what time of the day was it?,breakfast,morning,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+264,how does the button stay on?,yes,sewn on,0.2,3.68e-16,2.07e-09,0.0,0.0
+265,where did they put the shirt after they sewed the button back on?,yes,they put it on,0.2,4.98e-17,2.7999999999999996e-10,0.0,0.0
+266,was it easy or difficult to sew the button?,it was it was it to a thread,easy,0.2,1.25e-16,1.56e-16,0.0,0.0
+267,was the shirt missing the button?,it was it was it,yes,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+268,why are they going to the destination?,to married,friends wedding,0.3,5e-16,2.66e-11,0.0,0.1684210526
+269,how long was the plane ride?,two hours,a little over four hours,0.2,0.11156508,3.34e-08,0.2652173913,0.1206030151
+270,why was their flight delayed?,to married,freezing rain,0.2,5e-16,2.66e-11,0.0,0.0
+271,how long did it take to hang it?,a few minutes,quite awhile,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+272,what kind of art is it?,plumeria flowers,paintings of flowers,0.6,0.3032653296,9.07e-08,0.38607594939999995,0.17518248179999998
+273,when did they put the painting up?,in the daughter,just before the meeting,0.2,0.23884377,4.58e-10,0.27853881280000004,0.04324324324
+274,who helped them put up the painting?,the daughter,their daughter.,1.0,0.4999999995,1.5e-07,0.5,0.6
+275,why did they hang the painting?,to spruce to spruce,to make their house look nicer,0.2,0.1516326649,1.5400000000000001e-12,0.19303797469999998,0.030534351150000003
+276,when did they hang it?,in the daughter,before co workers arrived,0.2,2.39e-16,8.14e-14,0.0,0.0
+277,how long did the sauna last?,about half minutes,30 minutes,0.2,0.3333333332,6.39e-10,0.4149659864,0.1951219512
+278,why did they want to go to the sauna?,it was their cold 's cold,to relax and socialize,0.2,1.67e-16,2.3e-16,0.0,0.0
+279,what does the steam do?,yes,cleanses the pores,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+280,did they go with anybody else?,yes,"yes, speaker went with a friend",0.2,0.002478752172,7.84e-08,0.2202166065,0.09090909091
+281,who prepared the dinner?,the family,the narrator,0.2,0.4999999995,1.5e-07,0.5,0.1
+282,who is preparing dinner?,the family,the author,0.2,0.4999999995,1.5e-07,0.5,0.1
+283,what did they stand on to change the light bulb?,a package,floor,0.2,5e-16,2.66e-11,0.0,0.0
+284,how long did it take to remove the old bulb from the socket?,a few minutes,few seconds,0.2,0.3333333332,6.39e-10,0.4149659864,0.41941726420000003
+285,did they have extra light bulbs just in case?,no,yes,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+286,where did they get the light bulb?,the living closet,from the hall closet.,0.5,0.4776875401,5.44e-10,0.5570776256000001,0.2038216561
+287,when did they notice the light bulb burned out?,when they suddenly the light went,while they were reading,0.2,0.1666666666,1.29e-12,0.2074829932,0.08175182482000001
+288,when did the light bulb go out?,when they were out out,while they were reading,0.2,0.3999999999,1.14e-08,0.4535315985,0.12653500980000001
+289,did they do it by them self?,no,yes they did.,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+290,why did the light go out?,it was the light bulb,normal usage limit,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+291,did they get help from someone?,no,no they did not.,1.0,0.04978706827,1.57e-06,0.3609467456,0.07619047619
+292,how easy did it look to change the light bulb?,yes,very easy,0.2,3.68e-16,2.07e-09,0.0,0.0
+293,how did they change the light bulb?,"yes , they put it on the lamp",unscrewing the burned bulb and screwing in a new light bulb.,0.2,0.08591115982999999,6.04e-13,0.1023489933,0.018475750580000002
+294,who helped wash their hair?,the conditioner,nobody.,0.2,5e-16,2.66e-11,0.0,0.0
+295,did they wash their hair in the sink?,yes,"no,they washed it in the shower.",0.2,9.12e-19,5.13e-12,0.0,0.0
+296,where did they wash their hair?,in the shower,the bathroom,0.7,0.3333333332,6.39e-10,0.4149659864,0.09638554217
+297,were they alone washing their hair?,yes,"yes, they are alone.",1.0,0.01831563885,5.79e-07,0.2975609756,0.14814814810000002
+298,were they at home or someplace else?,yes,they were at home.,0.2,4.98e-17,2.7999999999999996e-10,0.0,0.0
+299,did they have the adequate necessities to wash their hair?,yes,"yes, they had everything to wash their hair.",1.0,0.00033546262719999997,1.06e-08,0.17478510030000002,0.08053691275000001

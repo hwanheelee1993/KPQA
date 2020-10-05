@@ -1,0 +1,501 @@
+,query,hyps,refs1,refs2,scores,Bleu1,Bleu4,RougeL,Meteor
+0,what hidden message does reiko find within the video?,frolic in brine,"frolic in brine, goblins be thine","frolic in brine, goblins be thine",0.6,0.2635971379,0.008335673405,0.5596330275,0.2629337276
+1,why does karl not kill his father?,he wanted to kill his father,he didn't think it was worth the effort.,he isn't worth the effort,0.2,0.1666666666,1.29e-12,0.1666666667,0.07581884276
+2,where does lilly hide stashes of money stolen from bobo?,in the trunk of her car,in her car trunk,the trunk of her car,1.0,0.9999999998000001,0.7952707286,0.9242424242,0.5558677395
+3,what happened with dr. sayer's patients when they were treated with the l-dopa?,they are more respect and care and care and care,the awoke from their catatonia,they had seizures and became catatonic,0.2,0.2,7.94e-13,0.2618025751,0.07618740751
+4,what does the drug that micheal created do?,he designed the aggression,it makes people crazy and homicidal,increased aggression,0.3,0.2499999999,2.54e-12,0.35465116280000003,0.1904761905
+5,why did baron conrad left the castle undefended?,baron was a result of his nephew,because he was summoned by the imperial court,he takes the majority of his army as an escort to obey a summons to the imperial court,0.2,0.49535879969999996,7.2e-09,0.1624500666,0.06745633606000001
+6,what is the name of the drug that micheal helps to design?,aggression,the ladder,the ladder,0.2,3.68e-16,2.07e-09,0.0,0.0
+7,what is the name of roberta's program?,fiddlefest ',the opus 118 (string program).,opus 118,0.2,5e-16,2.66e-11,0.0,0.0
+8,who attacks castle drachenhausen?,baron frederick 's heir,baron henry,baron henry.,0.6,0.2499999999,2.54e-12,0.35465116280000003,0.1777777778
+9,what causes jenny to stay with the alien?,she witnesses a dead deer,she witnesses the alien revive a dead deer.,jenny saw the alien resurrected a deer.,0.4,0.6703200457999999,7.09e-05,0.7384987893000001,0.3247875417
+10,who is mulder and scully's enemy?,the,the cigarette smoking man.,the cigarette smoking man.,0.2,0.04978706827,1.57e-06,0.3609467456,0.04624277456999999
+11,how were the men able to find fuel for the spaceship?,they serve in the very around the smaller globeship,the first planet had robots that fueled the ship.,they visited a refueling station.,0.2,0.3333333333,9.98e-13,0.22222222219999999,0.04624277456999999
+12,how does jack's relationship with ingrid end?,he is separate away,jack kills ingrid,he kills her.,0.2,0.2499999999,2.54e-12,0.2932692308,0.07339449541
+13,how does the queen of the borg collective gain data's trust?,she presented part of him human skin,by giving part of him human skin.,by grafting human skin on him,0.7,0.7142857141,0.6147881527,0.7142857143000001,0.5260492602
+14,whose hand does irene's great-great-grandmother heal?,her hand,irene's.,princess irene,0.2,5e-16,2.66e-11,0.0,0.04948453608
+15,was herzl affiliated with zionism?,herzl,only on behalf of them politically.,yes,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+16,what does the telegram the cigarette smoking man gives strughold say?,the x-files unit been re-opened,the x-files is reopen.,that the x-files unit has been reopened,1.0,0.7999999998,9.04e-05,0.6472148541,0.3408760886
+17,what is an important component of the device e.t. uses to phone home?,speak to phone toy,speak & spell toy,a speak and spell toy.,0.4,0.4999999998,3.02e-12,0.5,0.2211981567
+18,where did mrs. inglethorpe take her document case?,at dinner,to bed with her,to her bedroom.,0.2,3.03e-16,1.61e-11,0.0,0.0
+19,why is there an outcry in the artistic community?,the sidelining of new artists,the sidelining of new artists in favor of popular ones for,"because new artists are being sidelined in favor of established, traditional artists.",0.9,0.3011942118,0.3011942118,0.5854126679,0.26490571960000003
+20,where does jo live?,tom-all-alone wold,tom-all-alone's,tom-all-alone's,0.7,0.4999999995,1.5e-07,0.5,0.3965557859
+21,who is will?,christopher blake 's grandson,mr. fletcher's grandson.,mr. fletcher's grandson.,0.2,0.4999999998,1.7e-08,0.5,0.2356159377
+22,what was the rajah's reasoning for killing almayer?,he is not needed to find the gold mine,"they already knew where the gold was, so they didn't need him.",he had become unnecessary,1.0,0.3333333333,5.61e-09,0.2378167641,0.1414125981
+23,"in the end, what did socrates convince crito of?",that it would be better not to attempt an escape,socrates convinced crito that it would better for him to not escape.,that it would be better not to escape.,1.0,0.7999999998999999,0.6606328635000001,0.907063197,0.5193190762
+24,who does julianne forge an e-mail to?,employer o'neal,michael's boss,michael's employer,0.2,0.3032653296,9.07e-08,0.38607594939999995,0.14723926380000002
+25,who proposes to liza?,mrs blakeston,tom,tom,0.2,5e-16,2.66e-11,0.0,0.0
+26,what is the relationship of maria wyndham to mr. fletcher?,maria is maria 's granddaughter,maria is mr. fletcher's granddaughter.,grandaughter,0.2,0.6549846022,1.32e-08,0.715542522,0.3095678818
+27,what happened to bartley ?,fallen off his horse,he fell off his horse and drowned in the sea,fell of his horse into the sea and died,0.8,0.2148785975,3.6e-05,0.39782608700000005,0.277063745
+28,what did nicky rogan do after the red sox lost?,he spends waiting for waiting for the sox,"he snapped, planning to kill the critic.",he takes out his rage on the newspaper critic.,0.2,0.2499999999,1.04e-12,0.25,0.05
+29,who are the chuns?,plummers ' north korean neighbors,plummer's north korean neighbors.,the plummers' north korean neighbors.,1.0,0.9999999996,0.9999999995000001,0.8944281525,0.5304489981
+30,who is the prisoner of war calchus persuades the greeks to exchange for his daughter?,criseyde,antenor,antenor,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+31,what did the witch give to people who were not beautiful?,a panacea panacea in a crystal bowl,strange dreams,strange dreams,0.2,1.4299999999999998e-16,1.8600000000000001e-16,0.0,0.0
+32,what job does the mayor want to have?,restorer,governor,governor.,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+33,why is jerry scalped?,for failing to baby baby 's favorite star,he failed to guess baby's favorite actor.,failing to guess babys favorite movie star,0.3,0.7499999998000001,5.720000000000001e-05,0.5398230088,0.2946439305
+34,when was the ghost seen?,after the speech of the men,when maurya went after bartlry,as bartley's ship left,0.2,0.1666666666,1.29e-12,0.18484848480000002,0.03686635945
+35,how does john die?,he explodes in flames,execution,electric chair.,0.2,2.5e-16,4.519999999999999e-16,0.0,0.0
+36,what does marie's husband do?,he is a fan of capote stars,he is a detective.,kansas bureau of investigation,0.2,0.5714285713,5.56e-05,0.5736677116,0.2205766225
+37,what does peggy gray do despite discovering brewster is now poor?,he confesses his love to his challenge,she marries him anyway.,accepts brewster and marries him.,0.2,1.4299999999999998e-16,1.8600000000000001e-16,0.0,0.0
+38,what is in the safe?,an envelope placed on the safe,the money that was needed to pay back the taxes.,a cheque worth 744 million pounds.,0.3,0.1666666666,1.29e-12,0.1196078431,0.02127659574
+39,who's body does ben find on the side of the road?,mikey 's body,mickey's,he finds mikeys body on the side of the road.,1.0,0.6666666664,7.6e-10,0.4149659864,0.1752916191
+40,what is the profession of elliot blitzer?,actor,he is an actor.,an actor.,1.0,0.3678794404,1.1599999999999999e-05,0.6288659794,0.3116883117
+41,what would replace the king on his throne?,ape,an ape,an ape.,1.0,0.3678794404,1.1599999999999999e-05,0.6288659794,0.3116883117
+42,why did christopher teach will to hate his grandfather?,he was drunken drunken desire,"as revenge towards will's grandfather, mr.fletcher.",revenge.,0.2,1.1000000000000001e-16,1.6599999999999999e-16,0.0,0.016
+43,who went to texas with bill?,his girlfriend abby,"his girlfriend, abby, and his younger sister, linda","his girlfriend, abby adams and her younger sister, linda manz.",0.6,0.06948345118,3.29e-07,0.3885350318,0.1654575012
+44,who is ruth visiting when she comes to britain?,her aunt lady coxon,her widowed aunt lady coxon,widowed aunt lady coxon.,1.0,0.9999999995000001,0.0001351200154,0.8714285714,0.3987346638
+45,what does josiah do with theodora's letter to hector?,she maliciously to hector,he forwards the letter to hector.,forwards it to hector,0.2,0.4999999998,1.7e-08,0.5,0.23883483100000003
+46,what does luis do when patrick tries to kill him?,he shoots her,confesses his love,confesses his sexual desire for him,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+47,how does barabas escape execution?,by feigning death,by pretending to be dead.,feigning death,1.0,0.9999999997,4.73e-06,0.8299319728,0.4660191825
+48,in what years did the encephalitis lethargica outbreak took place?,1969,from 1917 to 1928,1917 to 1928.,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+49,who kills tulkinghorn?,hortense jarndyce,hortense,hortense,0.5,0.4999999998,1.5e-07,0.7093023256000001,0.347826087
+50,what was soames's motivation for entering into a deal with the devil?,he will be prepared for his works and talent,he was desperate and considered his greatness unrecognized,he was in despair and desperate for assurance that his talent and works would be recognized in the future.,0.2,0.7777777777,1.23e-12,0.304619226,0.1536993712
+51,why are frank and earl estranged?,frank 's that he is a child of his family,because earl left frank's mother when she was dying.,frank was forced to take care of his dying mother when earl left.,0.2,0.3999999999,6.31e-09,0.2548746518,0.1357403187
+52,what age was otto when his father went to claim him at the monastery?,eleven,he was eleven.,11,1.0,0.999999998,3.16e-05,0.4586466165,0.2553191489
+53,how many years did valjean serve?,nineteen,nineteen years,19,1.0,0.999999998,3.16e-05,0.6288659794,0.8
+54,what is steve's excuse to not see mary?,he is a beautiful person,he claims he is needed to cover a story out of town.,fake a phone call about covering a story out of town.,0.2,0.1807165271,3.79e-09,0.32854578100000004,0.06684318002
+55,what is the substance that infects the hunters like?,a black oil-like substance,oil.,oil-like.,1.0,0.2499999999,2.54e-12,0.4485294118,0.4065273719
+56,why was it determined krill was not the father?,nikolai 's father is impotent and never had sex with tatiana,krill was impotent.,krill is impotent.,0.5,0.1818181818,3.99e-09,0.318537859,0.20007106260000002
+57,what gift did the borg queen offer data?,a gift to the android,human skin,the grafting of human skin onto him.,0.2,0.1340640092,1.14e-12,0.1618037135,0.025316455699999997
+58,how often does mrs. inglethorpe change her will?,once once per year,at least once a year,every year,0.8,0.38940039130000004,2.3500000000000003e-12,0.5,0.2469290659
+59,who did the two ninjas turn out to be?,the plummers ' north korean neighbors,the korean next door neighbors,"the plummer's neighbors, the chuns.",1.0,0.49999999990000005,1.6999999999999998e-12,0.5545454545,0.2320109787
+60,where does e.t. want to phone?,the forest,home.,"""home""",0.2,5e-16,2.66e-11,0.0,0.0
+61,what happens to tito after he escapes the river he jumped into?,he is killed by baldassarre,baldassarre kills him after he leaves the river.,his adopted father kills him,1.0,0.39999999979999995,2.02e-12,0.14769975789999998,0.1468006808
+62,"how many years did rodgers remain in ""sleep""?",492 years,492,492,1.0,0.4999999998,1.5e-07,0.7093023256000001,0.380952381
+63,why does helen return to grassdale?,her husband is gravely ill. in vain,her husband is really sick.,her husband was ill.,0.7,0.4285714285,5.17e-05,0.5154929577,0.2749286522
+64,siddhartha tell govinda that for every true statement there is what?,that he and the confines of time,an opposite statement that is also true.,an opposite statement that is also true.,0.2,0.1428571428,1.04e-12,0.14285714289999998,0.03225806452
+65,how old is liza kemp?,5 years old,18,eighteen.,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+66,what does kimmy witness that causes her to run off?,michael 's love,julianne kissing michael.,michael and julianne kiss,0.6,0.33333333309999996,6.39e-10,0.3333333333,0.13559322029999998
+67,where is megatron held frozen by sector seven?,in abyss,hoover dam.,at hoover dam,0.2,5e-16,2.66e-11,0.0,0.0
+68,who is eliza's favorite?,mary,mary's brother,her son,0.2,0.3678794404,1.1599999999999999e-05,0.4586466165,0.16551724140000001
+69,how does herr professor describe germany?,he despises them,the fatherland.,as the fatherland.,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+70,"where did simon move, once he couldn't afford to live on his own?",baltimore,into melvin's apartment,he moves in with melvin,0.2,4.98e-17,2.7999999999999996e-10,0.0,0.0
+71,how does the fbi find out about the counterfeit driver's license scam at the dmv?,she notices a teenager,the fbi has been surveilling frances and his brother.,they have been tipped off,0.2,1.95e-16,3.52e-16,0.0,0.0
+72,who makes huntingdon jealous?,huntingdon,his son.,"his son, arthur",0.3,3.68e-16,2.07e-09,0.0,0.0
+73,what is seth doing when he sneaks out of the house?,he is a refrigerator of music,he goes to the town theater where he is in the sound of music play.,"joined an amateur production of ""the sound of music""",0.2,0.2897321389,5.31e-09,0.3536231884,0.1095991576
+74,who was playing in the world series?,the boston red sox,red sox vs the mets,the red sox and the mets,0.6,0.584100587,1.46e-08,0.5791139241,0.2672775019
+75,what is tom booker?,horse whisperer,"""horse whisperer""",a horse whisperer.,1.0,0.6065306590999999,0.0006065306592000001,0.7721518987,0.4183967843
+76,what kind of sport does barney play in high school?,harvard,barney plays basketball in high school.,basketball,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+77,where does the knight take the entertainers to escape the plague?,to his castle,the knight's castle.,his castle,1.0,0.6666666664,4.27e-06,0.8299319728,0.4604044935
+78,how was the estate finally restored?,through maria 's granddaughter,"through the efforts of maria wyndham, who was mr. fletcher's granddaughter and heir, christopher was pardoned and the estate was returned to him.",through marriage,0.4,0.9999999998000001,2.02e-08,0.6288659794,0.1777777778
+79,how are jenny and the alien able to purchase a new car after traveling too far?,they are use credit cards,starman uses a quarter in a slot machine and manipulates it to win the five hundred thousand dollar jackpot.,with their winnings at a slot machine.,0.3,1.34e-16,2.0299999999999997e-16,0.0,0.02257188647
+80,what is josiah brown's nationality?,josiah brown is australian,australian.,australian.,1.0,0.2499999999,2.54e-12,0.4485294118,0.2962962963
+81,what deal does max make with the mortally-wounded soldier?,he bring him back to the compound in exchange for a tank of fuel,he will bring him back to the compound for a tank of fuel.,the deal is that max will bring the soldier back to the compound in exchange for a single tank of fuel,1.0,0.9999999999,0.9121679090000001,0.8948655256999999,0.5142177101
+82,when did dominic's wife throw a picnic?,after josiah mcbride months later,18 months after josiah died,when josiah brown passes away.,0.2,0.5999999998,1.26e-08,0.4,0.2405497517
+83,what item does clara possess that makes jack suspicious of her?,a paymenta,a gun,a pistol,0.2,0.4999999995,1.5e-07,0.5,0.1
+84,what is henry's title?,the french novel,lord,lord.,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+85,which suspicion does dr. merkel confirm?,that she is pregnant,that charity is pregnant.,ruth is pregnant.,0.7,0.7499999996,1.88e-08,0.75,0.2900878267
+86,where is the school located where roberta takes a position as a substitute violin teacher?,east harlem,east harlem in new york city.,east harlem in new york city,1.0,0.1353352831,0.0001353352831,0.4586466165,0.2239076541
+87,what does mary do for amy's family?,she becomes consumptive,mary pays off the family's debts.,pay their debts,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.03428571429
+88,what type of wreckage are the men scouting?,an wreckage of alien starship,the wreckage alien starship,alien starship,1.0,0.5999999999,1.26e-08,0.7854077253,0.42459525509999996
+89,what does clarence take from the apartment?,a bag of elvis,a bag of cocaine.,a bag that contains cocaine,0.3,0.7499999996,0.0001257433429,0.75,0.3239719143
+90,what will the girdlestones do after the diamond price plummets?,they get rid of diamonds,"buy out the rest, then make the prices go back up.",sale there diamonds at a cheap price and take a huge loss,0.4,0.04931939277,4.1899999999999993e-13,0.1095152603,0.09094736842000001
+91,what is basil infatuated with?,his,dorian's beauty,dorian's beauty.,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+92,what distinct facial figure does aaron hancock have?,frank,a long beard,a long beard,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+93,what is the setting?,new york city mansion,modern new york city,new york,1.0,0.7499999996,0.0001257433429,0.8798076923,0.38993441799999995
+94,how does daniel initially react to esther?,she climbs,he is not so welcoming of her,he doesn't like her,0.2,1.1200000000000002e-16,5.93e-12,0.0,0.0
+95,where is jim held in?,"joe , florida",joe clark's barn.,the barn of joe clarke,0.2,0.23884377,4.58e-10,0.27853881280000004,0.11538461539999999
+96,where is the princess met by the manager?,in a hotel sitting room,hotel,a hotel sitting room,1.0,0.7999999998,0.6687403048,0.907063197,0.5372266306
+97,who is rex kramer?,he is the best officer in the war,ted's former commanding officer in the war who helps him land the plane.,striker's commanding officer.,0.3,0.6249999999,0.3655552228,0.34659090909999996,0.14939345539999999
+98,what name was given to the fund raising concert?,fiddlefest ',fiddlefest.,fiddlefest,1.0,0.4999999998,1.5e-07,0.7093023256000001,0.380952381
+99,who greeted jacob in his apartment after jacob finally came to terms with his military ordeal?,his wife and jezzie,his son gabe,his son gabe,0.2,0.2499999999,2.54e-12,0.2932692308,0.055944055939999994
+100,what does socrates state he should do instead of breaking the law?,he should not be welcome in any other civilized state,persuade his release,he should try and persuade the laws to let him go.,0.2,0.1809674836,4.04e-09,0.18885448920000003,0.1035075688
+101,why does stephen get sent back to prison after he works for usamm?,he was given a life sentence,he's caught embezzling funds.,he's caught embezzling,0.2,0.1666666666,1.29e-12,0.2074829932,0.04232804233
+102,why did fletcher miss max's birthday?,to work sex with his boss,he was having sex with his boss.,he was having sex with his boss.,0.6,0.5643211497,0.430125085,0.6069651741,0.3394770615
+103,"when rogers proved himself to the americans, what did they do?",he reorganizes the new boss,made him the boss.,the americans devised new tactics and started hunting for traitors in their group.,0.3,0.5999999999,2.24e-12,0.4535315985,0.1624365482
+104,why did almayer build the house?,to welcome the pantai to the native land,he believed the british were coming and wanted to welcome them.,in order to invite the invading state,0.4,0.375,6.5e-09,0.2699115044,0.11617161720000001
+105,who controls the government at the beginning of newton's experimentation?,the democratic party,the democrats,democratic party,1.0,0.9999999997,4.73e-06,0.8299319728,0.6932185145
+106,what command does the atm give patrick?,a stray cat,"""feed me a stray cat""",feed me a stray cat,0.5,0.5134171187,0.01623567485,0.7176470587999999,0.2998748298
+107,what does elise do with the note?,she burns it,burns it,burn it,1.0,0.6666666664,4.27e-06,0.8299319728,0.4604044935
+108,what is the tragedy that strikes near the end of the story?,cocaine,sebastian sacrifices himself to save annette,sebastian is hit by a car,0.2,6.74e-18,3.79e-11,0.0,0.0
+109,who does ermyntrude pretend to be in front of the inca?,the princess of the princess of the princess,the princess,the princess,0.6,0.25,5.870000000000001e-09,0.4485294118,0.3473961178
+110,why does dorian go to the opium den?,to ask him about rumours prince charming,to escape his guilt.,to escape the guilt of his crime.,0.2,0.1428571428,1.04e-12,0.1912225705,0.07750865052
+111,why did herzl want legal sanction from the ottoman authorities?,to stop a influx influx of jews,so the jews could immigrate without persecution.,to stop the influx of jews into palestine,0.9,0.7142857141,6.500000000000001e-05,0.6587473002,0.347328002
+112,what special talent does the alpha dragon have?,she is able to control smaller dragons,he is able to control smaller dragons,he is able to control smaller dragons.,0.9,0.8571428569,0.8091067113,0.8571428570999999,0.5419901468
+113,who does monsieur  vervelle want his child to wed?,grassou,pierre grassou de fougeres.,pierre grassou.,0.9,0.3678794404,1.1599999999999999e-05,0.6288659794,0.2162162162
+114,what is the town like area that the germanic tribes inhabit?,"the mark 's mark , the mid-mark , the mid-mark , the mid-mark and the",mark,mark.,0.5,0.06666666666,4.18e-13,0.1484184915,0.1538461538
+115,what happens to laura as she again ate the goblin fruit?,she is sickening,laura was disgusted by the taste of the fruit and was completely healed by morning.,it tasted disgusting,0.4,3.33e-16,1.1400000000000002e-13,0.0,0.1432835821
+116,where is elise's suite?,hotel danieli in venice,hotel danielli,hotel danieli,1.0,0.49999999990000005,1.7e-08,0.7093023256000001,0.43424514729999997
+117,"at the end of the story, who does esther end up marrying?",john jarndyce,mr woodcourt,woodcourt,0.2,5e-16,2.66e-11,0.0,0.0
+118,how much experience has roberta had in music teaching when she takes her first job as substitute violin teacher?,she has little experience in music,she has very little experience.,little,0.8,0.6666666666,1.22e-08,0.8299319728,0.3427226275
+119,what is sylvia's occupation?,she is a actress,an actress.,actor,1.0,0.2499999999,2.54e-12,0.35465116280000003,0.2790697674
+120,when does capote decide to go see smith one last time?,when he is riveted,after smith sends a telegram to harper lee,after smith telegrams lee,0.2,2.5e-16,4.519999999999999e-16,0.0,0.04
+121,what made capote contact shawn?,telegram,he intended to document the clutter family story,his intent to expand the story into a full length book.,0.2,9.12e-19,5.13e-12,0.0,0.0
+122,where is everard when he feels a sword at his throat?,a dark gallery,a dark alley,in a dark gallery.,1.0,0.9999999993,0.031622776580000005,0.8356164384,0.4622274447
+123,why did yuri and alexei leave nadia behind?,they are discovered she was pregnant,they realized she was pregnant with johns' baby.,because she is pregnant,0.8,0.6666666666,6.87e-05,0.5570776256000001,0.23671847850000002
+124,what mystical artifact does optimus prime jettison into space?,the allspark from megatrons body,the allspark.,the allspark.,0.5,0.3999999999,1.14e-08,0.6192893401,0.3783522075
+125,what happens to the gyro captain?,he is shot down,he becomes the chief and leads the settlers to the coast to start the great northern tribe.,he's the chief of the great northern tribe,0.4,0.07162619918,7.279999999999999e-13,0.1438679245,0.04199293732
+126,what type of will are the tolstoians trying to get signs?,a new will,one that would leave all of tolstoy's copyrights in a public domain.,a will that places all of tolstoy's copyrights to his work in the public domain,0.3,0.02378266222,2.7100000000000002e-11,0.1874039939,0.064
+127,what job does philammon take after returning to the desert?,abbot of his monastery,philammon become abbot of his monastery.,abbott of his monastery,1.0,0.9999999995000001,0.9999999992,0.8356164384,0.3329984916
+128,what does troilus try to persuade cresida to do?,to exchange a prisoner of war,elope,elope,0.2,1.67e-16,2.3e-16,0.0,0.0
+129,what happened to the estate richard and ada inherited?,they are pregnant,attorney and court fees took everything.,being revoked by jarndyce,0.2,2.39e-16,8.14e-14,0.0,0.06697674418999999
+130,what did lateesha plan to use to pay for her granddaughter's medical procedure?,a counterfeit driver 's license racket,the finder's fee for returning the stolen money,"the $300,000 finders fee that would be collected when the money was returned to its owner",0.2,0.1010884433,7.829999999999999e-13,0.12869198310000002,0.04962801683
+131,to what did the inca attribute his popularity?,"art , literature and science",the war,the war will result in his being super-president of the republic.,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+132,what happened as a result of anvoy and her fiance discussing giving the money to saltram?,the engagement as a fraud and others,they broke off their engagement.,the engagement is broken off,0.2,0.2857142857,6.990000000000001e-09,0.3436619718,0.16908660600000003
+133,why does diana put a gun to her own head?,she does n't want to die in the way in the way in,she doesn't want to leave ahmed.,suicide,0.2,0.3846153846,0.2891784933,0.5285961872,0.36293983049999995
+134,where had jews been reduced to living?,ghettos,the ghettoes.,in ghettos,1.0,0.3678794404,1.1599999999999999e-05,0.6288659794,0.3116883117
+135,what were pearce's written instructions to elise?,to attend a ball to venice taxes,"board the train to venice, pick out a man and make the police believe that he is pearce.",take a train and fool police,0.2,0.4285714285,7.73e-09,0.2009884679,0.06628119482000001
+136,what contract would be broken if he had escaped?,the laws of the,social contract.,the social contract.,0.2,0.2499999999,2.54e-12,0.2932692308,0.05839416057999999
+137,what arrives on their doorstep?,a baby named mary,a baby,a baby,1.0,0.49999999990000005,1.7e-08,0.7093023256000001,0.38993441799999995
+138,how does charity feel about her life in north dormer at first?,she is bored with a sexual relationship,she feels bored.,charity is bored with life in north dormer at first.,0.4,0.37225088990000005,3.6200000000000006e-05,0.5430267061999999,0.3575417032
+139,what does the mayor give the ghostbusters at the end of the story?,a standing of proton streams and a,the key to the city,key to the city,0.2,1.4299999999999998e-16,1.8600000000000001e-16,0.0,0.0
+140,who was the final raid in the story on?,the hans,the sinsings,sinsings.,0.2,0.4999999995,1.5e-07,0.5,0.1
+141,why does julianne go to chicago?,she is in love with michael,to sabotage the wedding,she wants to sabotage michael's wedding.,0.6,0.28216057489999996,1.3000000000000001e-12,0.30348258710000003,0.18911292489999998
+142,why were the towns people divided?,jim and dave 's methodist on the church,religious beliefs,the methodists support jim and the baptists support dave.,0.2,0.44124845119999995,6.16e-09,0.3492366412,0.17001862480000002
+143,what happens when laura plants the seed from the goblin fruit?,she plants,nothing grows from the seed,nothing grew.,0.2,5e-16,2.66e-11,0.0,0.07236180905
+144,why didn't anne accept gilberts proposal?,she does n't really belong in her life,"although they were close, anne wanted a very specific look of a man.",she's dreaming of true love,0.2,0.125,8.780000000000001e-13,0.1466346154,0.04604316547
+145,with whom does striker have a hostile relationship?,dr. rumack,dr. rumrack.,rex kramer,1.0,0.4999999995,1.5e-07,0.5,0.2
+146,where does kate go when she flees phillips house?,to philip africa,to london,london,0.2,0.3333333332,6.39e-10,0.4149659864,0.08988764045
+147,what ends up happening to the alien craft when it approaches earth?,the us government shoots it down,the us government decides to shoot it down instead of welcoming it.,it is shot down.,1.0,0.8333333331999999,8.03e-05,0.5980392157,0.2876404494
+148,who does march bring along with him to rescue deerslayer and the others?,deerslayer,english reinforcements,english reinforcements,0.2,3.68e-16,2.07e-09,0.0,0.0
+149,what was leaking from the tanker after the collision?,"sand , sand , and sand",sand,sand,0.9,0.1666666666,1.29e-12,0.3279569892,0.275862069
+150,what are the differences between tolstoy and sofya in terms of their values?,five years and asceticism are conventionally religious,tolstoy does not believe in private property where sofya is aristocratic and has religious views.,she's more conservative and he's more spiritual,0.3,0.214707798,9.33e-13,0.1706293706,0.05
+151,what job does ermyntrude's father suggest she do find another man to marry?,lady a maid,lady's maid,lady's maid.,0.8,0.6666666661999999,7.6e-10,0.6666666667,0.3057324841
+152,who enters with mercury?,asotus,cupid,cupid,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+153,what dance gets them past the security system?,a dance,the peter panda dance,the peter panda dance,0.2,0.18393972039999998,5.5e-08,0.3144329897,0.1318681319
+154,why does roberta lose her teaching job?,she is substitute by her cuts of music,the school budget is cut.,budget cuts,0.2,0.25,1.04e-12,0.2242647059,0.1666666667
+155,what does mathilde want jack to custom build her?,a custom sniper rifle for an assassination,a sniper rifle,a sniper rifle.,1.0,0.4285714285,7.73e-09,0.6466431095,0.3813593624
+156,what island was bartley voyaging from in the story?,donegal,inishmaan,inishmaan,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+157,what are the three teenagers dressed as?,rabbits and scarecrows,rabbits,rabbits,0.5,0.3333333332,6.39e-10,0.5495495495,0.3333333333
+158,what state does this story take place within?,18th-century,new york,new york,0.2,3.68e-16,2.07e-09,0.0,0.0
+159,what are some important themes mentioned in this story?,"how conrad killed conrad , and his","the themes of loyalty, revenge, and love","be responsible,keep your word and be wise and peaceful.",0.2,0.214707798,5.25e-09,0.244488978,0.05720594755
+160,which of the armed forces did roberta's husband work for?,the head teacher,us navy,us navy,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+161,what happened to charity's mother?,she is dying,she died.,charity's mother dies.,0.6,0.3333333332,6.39e-10,0.4149659864,0.09638554217
+162,how does virginia's conversion affect her religious beliefs?,she gives him with a sexual desire for paul,she gives up on her religion.,she becomes more sexual.,0.5,0.3333333333,5.61e-09,0.3306233062,0.1683417311
+163,how does jason come back after being initially killed?,he is blown back to life by the ship,the medical station brings him back,they unfreeze him.,0.5,0.22222222219999999,9.02e-13,0.13832199550000002,0.137970265
+164,where does virgil die?,in the bathroom,in the hotel.,virgil dies in alabama's hotel room.,0.4,0.6666666661999999,4.27e-06,0.6666666667,0.19106786480000001
+165,who attacks the us military base in qatar to find information on megatron & allspark?,blackout keller and the decepticons,blackout,blackout,0.6,0.2,1.6999999999999998e-12,0.37888198759999997,0.2857142857
+166,what does sam's chevrolet car turn out to be?,a rusting chevrolet camaro,autobot bumblebee,an autobot scout named bumblebee,0.2,1.95e-16,3.52e-16,0.0,0.0
+167,what does the capos call michael as they leave him and kay standing at the end of the story?,the capos,don corleone,don corleone.,0.2,5e-16,2.66e-11,0.0,0.0
+168,who does max go to for help and what do they utilize?,pappagallo,max goes to gyro captain and finds the truck with his gyrocopter.,max gets the gyro captain for help and they use his gyrocopter.,0.2,1.67e-20,9.39e-14,0.0,0.0
+169,who gives maurya holy water?,the other women,nora,nora,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+170,what happens to phillamon ?,he is murdered by a christian mob,he becomes abbot of his monastery.,he returns to the desert,0.2,0.1428571428,1.04e-12,0.1718309859,0.09825344747000002
+171,how does bishop drake get shot?,he shoots bishop,bishop drake is shot by anthony cigliutti because anthony assumes that bishop killed his sons.,cigliutti shoots him believing that bishop has killed his sons,0.2,0.06464797853,7.37e-11,0.2804597701,0.11188811189999999
+172,what part of the goblin's anatomy is their secret weakness?,goblin anatomy,"their soft, vulnerable feet.",their feet,0.2,5e-16,2.66e-11,0.0,0.0
+173,what did almayer do when mrs. almayer left and nina was gone?,he snuck with her father,"he burned his furniture and home and lived in his ""folly"" until he died.",he broke all the furniture in his office and burned it along with the house.,0.2,0.054134113270000006,2.7300000000000005e-13,0.1834586466,0.0329218107
+174,what is the name of grant's yacht?,the,the duncan,the duncan.,0.2,0.3678794404,1.1599999999999999e-05,0.6288659794,0.11267605630000001
+175,"prior to her brother's death, how did mary spend most of her time outside of the home?",she is ignored by dancing,she worked with charities.,with her charity,0.2,0.2,1.6999999999999998e-12,0.2267657993,0.0490797546
+176,what two leaders are at war in the poem?,emperor charlemagne and agramante,charlemange and agramante,charlemagne and agramante,1.0,0.7499999998000001,0.0001257433429,0.8798076923,0.4870450256
+177,what was doyle's favorite?,the red-headed league pips,the adventure of the speckled band.,the adventure of the  speckled band,0.2,0.1516326649,1.5400000000000001e-12,0.19303797469999998,0.0329218107
+178,what happened to gilbert?,he dies of typhoid fever,he became very sick and anne then realized she loved him and went to see him.,he becomes gravely ill with typhoid fever but survives and becomes engaged to anne.,0.3,0.09917933288999999,2.0800000000000003e-09,0.2909379968,0.10839330230000001
+179,what kind of tribe captures our travelers?,mori,maori,maori,0.9,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+180,what happens to tomoko?,she is killed by an unseen force,tomoko reveals that they watched a video tape with several friends a week ago and received a strange call after watching it. tomoko is killed while masami watches.,tomoko is killed by an unseen force.,1.0,0.8571428569,0.8091067113,0.8571428570999999,0.47404386020000006
+181,where does ratso live?,in new york city,he is squatting in a condemned building.,new york city.,1.0,0.9999999998000001,0.0001351200154,0.8798076923,0.5074804812
+182,kamala wants siddhartha to become wealthy so that she can teach him the art of what?,her affections,love.,love.,0.7,5e-16,2.66e-11,0.0,0.0
+183,who is george monck?,the governor of scotland,governor of scottland,governor of scotland,1.0,0.7499999998000001,0.0001257433429,0.8798076923,0.5074804812
+184,what color is paula's bathing suit?,marble-carven,white.,white,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+185,why is barabas angry at the maltese governor?,he is apprised for the governor of the,barabas believes the governor has robbed him of his wealth.,he robbed him.,0.2,0.3894003914,5.44e-09,0.3492366412,0.1230808442
+186,what is michael's relationship to maurya?,brother,michael is maurya's son.,her son,0.2,3.68e-16,2.07e-09,0.0,0.0
+187,why did ermyntrude originally not want to marry the inca?,he is convincing as a princess that he was far enough,he was poor because of his country's war.,he was far too poor.,0.2,0.2727272727,2.95e-05,0.4021978022,0.2124405996
+188,who is laura to lizzie?,she is her sisters,her sister.,she is her sister.,0.9,0.7499999996,0.0001257433429,0.75,0.8
+189,where does troilus see criseyde pass through after being struck with desire for her?,the temple of the greek camp,the temple.,temple,0.5,0.3333333333,8.63e-09,0.5495495495,0.36743820159999996
+190,the goblin's want princess irene to marry what goblin?,her nursemaid,goblin prince harelip,harelip.,0.2,5e-16,2.66e-11,0.0,0.0
+191,who gets the credit for saving the child?,mary,hartman hughes.,hartman,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+192,who is annette hargrove?,a new headmaster,the virgin daughter of their school's new headmaster,virgin daughter of the headmaster,0.2,0.34227807909999997,2.19e-06,0.305764411,0.11904539859999999
+193,what does bateman do to the prostitutes after having sex with them?,he kills instruments,beats and tortures them,he tortures them.,0.3,0.33333333309999996,6.39e-10,0.3333333333,0.057142857139999996
+194,what does valjean steal from the bishop of digne?,his silverware,silverware,silverware,1.0,0.4999999998,1.5e-07,0.7093023256000001,0.380952381
+195,who was the leader of the decepticons?,optimus prime,megatron,megatron.,0.2,5e-16,2.66e-11,0.0,0.0
+196,what is hutter's nickname?,natty bumppo,floating tom,floating tom,0.2,5e-16,2.66e-11,0.0,0.0
+197,who raises tensions between orestes and the church by way of orchestrating evens?,miriam,"a jewish woman, miriam.",a jewish woman named miriam,1.0,0.01831563885,5.79e-07,0.2975609756,0.12244897960000001
+198,what does chris and his friends intend to do while his parents are out of town?,do n't need the booze to attract the popular house,throw a house party.,have a huge party,0.2,0.09999999999,6.670000000000001e-13,0.154822335,0.09795918367
+199,what was the ailment dr. sayer patients suffer from?,parkinson 's disease,they were in a catatonic state.,encephalitis lathargica,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+200,"after seeing the light, why does jacob finally let go and die?",he has an expression of peace on his face,he lets go of his memories and attachments,his son gabe is there to guide him on.,0.2,0.4444444443,1.07e-12,0.35672514619999995,0.1393763835
+201,how does the alien and jenny escape from the authorities?,they travel away on a gas tanker,the alien uses a sphere upon crashing into a fuel tanker to protect them.,shermin managed to help them escape.,0.2,0.2857142857,1.24e-12,0.1796759941,0.05432937182
+202,why is fletcher unable to lie?,"he can not give any , mislead by his son",max makes a birthday wish.,his son makes a birthday wish that his father will not be able to tell any more lies.,0.2,0.4,5.31e-09,0.13585746099999998,0.1342100342
+203,where does otto first meet his wife?,his cell,"at baron henry's fortress, castle trutzdrachen.",at castle trutzdrachen where he was being held captive,0.8,2.49e-17,1.32e-12,0.0,0.0
+204,what does ernest eventually become?,evangelical christian,an author,author of controversial literature,0.2,5e-16,2.66e-11,0.0,0.0
+205,"who betrayed diana, allowing her to be kidnapped?",ahmed ben hassan,her guide,"her guide, who was easily bribed.",0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+206,what leads reiko to falsely believe the curse has been broken?,she finds out sadako 's corpse,she discovers sadako's corpse.,when she finds sadako's corpse,1.0,0.8333333331,8.03e-05,0.8333333333,0.4863578368
+207,what is fletcher most concerned about?,denying her pay raises and the expensive marriage,his career.,his career.,0.2,1.25e-16,1.56e-16,0.0,0.0
+208,what injury did grace suffer from as a result of the accident?,grace amputated right leg,partially amputated right leg,a partially amputated right leg.,0.7,0.7499999996,0.0001257433429,0.75,0.3887662972
+209,who does vane write about in her letter?,his german friend,louis leverett,louis,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+210,what did the gridlestones do to create a favorable impression?,it will make it to use the collector,made a small donation to charity.,he donated 25 pounds to charity.,0.2,0.125,8.780000000000001e-13,0.1466346154,0.09714285714
+211,when vito declines to help virgil what does he do?,he sends luca and mccluskey on them,he has him killed.,he killed vito,0.3,0.1428571428,1.04e-12,0.2155477032,0.0487804878
+212,why does del's body explode?,he is screaming in pain,percy failed to soak the sponge,because percy didn't soak the sponge to conduct the electricity into del's head,0.2,1.64e-16,2.47e-16,0.0,0.02028169014
+213,where did the clutters live?,kansas farm,in kansas.,a kansas farm,1.0,0.999999999,0.0009999999991,0.7721518987,0.4183967843
+214,which orchestra does roberta's friends' husband play for?,fiddlefest,the guarnari quartet.,guarneri quartet,0.2,3.68e-16,2.07e-09,0.0,0.0
+215,what does alice warn her lover?,betraying the king,that he shouldn't betray the king.,against betraying the king,0.7,0.7165313101,0.02265870954,0.8356164384,0.37994611939999995
+216,what crime was john coffey convicted for?,raping and murdering two white girls,the rape and murder of two little white girls.,raping and killing 2 young white girls.,1.0,0.7054014372,1.09e-08,0.6069651741,0.3036146893
+217,what gradually takes over jack's life?,the job,his job at the casino.,a job as a croupier in a casino,1.0,0.22313015989999999,3.9700000000000005e-08,0.2652173913,0.1939393939
+218,how is james related to sibyl?,james is his 's brother,he is her brother,brother,0.8,0.3999999999,2.02e-12,0.6192893401,0.2962962963
+219,what does chertkov plan to do after tolstoy's death?,he attempts to see him to see him,chertkov and many of tolstoy's disciples plan against sofya for tolstoy's works.,gain control over tolstoy's works.,0.2,1.25e-16,1.56e-16,0.0,0.0
+220,what does troilus suggest he and criseyde do to avoid her being sent to greece?,they elope,elope,elope together.,1.0,0.4999999995,1.5e-07,0.7093023256000001,0.380952381
+221,what does arthur do when he finds out about helen's plans to leave?,he flirts with annabella,he burns her artists's tools.,arthur burns her art tools.,0.2,0.1947001957,1.98e-12,0.19303797469999998,0.03265306122
+222,who are pete's fictional letters supposed to be from?,a fallen woman,kate,a fictional uncle,0.2,0.33333333309999996,6.39e-10,0.3333333333,0.057142857139999996
+223,what story does sharon tell the videographer?,her father playing with her brother when they were children,about playing with her father and brother when they were children.,a story of her father playing with her brother when he was a child.,0.9,0.9048374179,0.8706304537999999,0.7554179567,0.4674820196
+224,where was the planned rendezvous point?,chequamegon bay,"barringer crater, arizona",arizona's barringer crater.,0.2,1.84e-16,9.779999999999999e-12,0.0,0.0
+225,why is ted on the flight?,he is traumatized,"he's trying to get back together with his former girlfriend, elaine, who's a stewardess on the flight.","to try and win his girlfriend, elaine dickson back.",0.2,0.03232398927,6.199999999999999e-11,0.0734055355,0.03097131006
+226,who does letour kill?,tis,tis and his henchmen,tis and tis's henchmen.,0.6,0.04978706827,1.57e-06,0.3609467456,0.16551724140000001
+227,what was emily inglethorpe poisoned with?,"a precipitating agent , bromide",strychnine,strychnine,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+228,who is the central character of the story?,overton,ernest pontifex,ernest pontifex.,0.2,3.68e-16,2.07e-09,0.0,0.0
+229,"when mary was younger, how did her mother fill her free time?",she will not attract her,reading novels,she was obsessed with novels.,0.2,0.19999999989999998,1.6999999999999998e-12,0.2,0.045977011490000004
+230,what does balthus witness conan doing in the forrest?,he tells balthus of the cult of jhebbal sag,conan was slaying a forrest devil.,conan is slaying a forest devil,0.2,1.11e-16,1.35e-16,0.0,0.0
+231,who is ermyntrude's father?,the archdeacon of the archdeacon,the archdeacon,the archdeacon,0.8,0.3999999999,1.14e-08,0.6192893401,0.4022481364
+232,what does dorian decide is the only thing that will absolve him of wrongdoing?,that he will destroy the last vestige of his conscience,confession,a full confession.,0.2,1e-16,1.1899999999999999e-16,0.0,0.0
+233,why did clough and taylor argue in majorca?,because they did not want to be good on the baseball,they argued about whether to stay at brighton or go to leeds,clough wanted to leave brighton for leeds,0.2,0.166018312,6.47e-13,0.1725601132,0.07599290078
+234,which inventions of tom's is stolen?,airships,his airship.,an airship,1.0,3.68e-16,2.07e-09,0.0,0.0
+235,how did sayer learn about the l-dopa drug?,by using a lecture,he attended a lecture about its use in treating parkinsons.,attending a lecture at a conference,0.6,0.3032653297,1.03e-08,0.38607594939999995,0.1676033902
+236,which sectors does letour deliver drugs to?,cosmetics and cosmetics business,banking and financing,to the banking and financial sectors.,0.2,0.2499999999,2.54e-12,0.2932692308,0.05369127517000001
+237,what plane was torn apart in civil war between two factions?,the,cybertron,cybertron.,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+238,how did flecher reede won the case for samantha?,he lied that she was underage when she was underage when she was underage,flecher reed proved that the contract samanth sign was void,a technicality that samantha had lied as a minor.,0.4,0.21428571429999999,5.94e-13,0.1718309859,0.09014084507000002
+239,"after finding out about ruth and being arrested, what does falder do to avoid his fate?",he throws himself down the stairs,throws himself down the stairs and breaks his neck.,breaks his neck by throwing himself down the stairs.,0.9,0.5054422163000001,0.46086363950000003,0.6434599156,0.3682565726
+240,how does ryuji die?,he committed suicide,he was in a state of shock that led to cardiac arrest.,cardiac arrest.,0.2,0.3333333332,6.39e-10,0.1203155819,0.02025316456
+241,what happened to middle class jews?,jews was magnified,they were distrusted.,they are mistrusted,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.08442241004
+242,how does virgil try to get information from alabama?,he takes a bag to the her,he beats her.,he beats her,0.2,0.2857142857,1.24e-12,0.4310954064,0.13559322029999998
+243,what part of km-14's body falls off?,"his right arm , right rib cage",head,her head.,0.2,1.4299999999999998e-16,1.8600000000000001e-16,0.0,0.0
+244,why did micky feel he lost the fight in atlantic city?,he is overwhelmed out the same,opponent was in a weight class of 20 pounds heavier.,because the last minute substitute opponent was 20 pounds heavier than micky,0.3,0.08556951981000001,6.63e-13,0.1048109966,0.027395608480000003
+245,whose voice did everard hear in the dark gallery?,his cousin 's voice,his cousins voice.,his cousin's,1.0,0.9999999998000001,0.0001351200154,0.8798076923,0.5072418884000001
+246,how did abby plan to inherit the farmer's money?,by a boarding school,by marrying him and waiting for him to ide,by marrying him and inherit it after he dies.,0.2,0.07162619918,7.279999999999999e-13,0.1438679245,0.02555910543
+247,what is the secret claudia keeps from jim kurring?,she is cocaine,claudia is addicted to cocaine.,that she is a drug addict.,0.3,0.5134171187,2.43e-06,0.4784313725,0.1584158416
+248,who did the goths rely on to foretell the future?,odin and tyr,they relied on seers and psychics.,seers,0.2,0.3333333332,6.39e-10,0.2096219931,0.03555555556
+249,who follows ward?,jones,french police,"french police, led by acheson",0.2,3.68e-16,2.07e-09,0.0,0.0
+250,what does liza claim all men do to their wives?,they beat him,beat them,beat them,0.9,0.3333333332,6.39e-10,0.4149659864,0.1951219512
+251,how does tito escape the rioters?,he escapes the mob by diving into the arno river,he jumps into the arno river.,diving into arno river,1.0,0.5999999999,0.3123939937,0.7093023256000001,0.41536492350000004
+252,how does esther/leena die?,she kills her in the face,kate breaks her neck.,kate kills her by kicking her and breaking her neck,0.3,0.3333333333,8.63e-09,0.27853881280000004,0.1032799269
+253,where were clough and taylor offered jobs?,brighton & hove albion,at brighton & hove albion.,brighton and hove albion,1.0,0.9999999995000001,0.9999999992,0.8714285714,0.5092155923
+254,who is ann?,a young woman who is a young woman who was a young woman who was,john le tour's boss,a woman who supplies drugs to people,0.2,0.2,3.09e-09,0.2918660287,0.14792558050000001
+255,what was paul edgecomb watching in the assisted-living home which caused him to cry?,the film top hat,top hat.,top hat,1.0,0.49999999990000005,1.7e-08,0.7093023256000001,0.43424514729999997
+256,why does socrates ultimately decide it is unjust to escape?,he will not break the laws to let him without crito,it will break the law,because it violates his belief in the  laws of society.,0.5,0.3636363636,5.6399999999999995e-09,0.4021978022,0.2926264596
+257,who built the cottage that paul and virginia stay in?,the bishop for virginia,the bishop,"virginia's husband, the bishop",0.7,0.7499999998000001,1.88e-08,0.7093023256000001,0.41536492350000004
+258,who was harney engaged to?,mr. royall,annabel.,annabel balch.,0.2,5e-16,2.66e-11,0.0,0.0
+259,why does elliot appear to be dying towards the end of the story?,he discovers her son 's illness,"because of his psychic connection to e.t., who is also dying.","a link has formed between elliot and e.t., who is also dying.",0.2,6.13e-17,8.449999999999999e-17,0.0,0.0
+260,what is frank tupelo's real name?,johnny depp ),alexander pearce,alexander pearce,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+261,what was innocent lured into?,a modern-day with amadis,a romance.,a romance.,0.2,0.2499999999,2.54e-12,0.35465116280000003,0.07920792079
+262,what creature from 1935 still lives in 1999 along with paul?,mr. jingles,"mr. jingles, del's mouse.",mr. jingles the mouse.,1.0,0.36787944079999996,0.0003678794409,0.6288659794,0.304895529
+263,what is the last painting of claude's accepted by the salon des refuses?,the,a painting of his dead son.,a picture of his dead son,0.2,6.74e-18,3.79e-11,0.0,0.0
+264,what does the cigarette smoking man say to do with the body if a vaccine fails?,have the body burned,burn it.,burn the bodies.,1.0,0.2499999999,2.54e-12,0.2932692308,0.1870594481
+265,what special powers to bewilderbeasts have?,he can control smaller dragons,they can control smaller dragons.,the ability to control smaller dragons.,0.8,0.7999999997,0.6687403046,0.8,0.4957136637
+266,who died colliding into a truck?,gulliver and gulliver,judith and gulliver,judith and gulliver,0.5,0.6666666661999999,4.27e-06,0.6666666667,0.27295409260000003
+267,what happened to leonard lowe when he became agitated while arguing with dr. sayer and the staff?,he has a number of facial body tics,he started to suffer hard to control facial and body tics,his facial tics start again,1.0,0.49999999990000005,6.990000000000001e-09,0.4357142857,0.22014643190000002
+268,"the experimental drug ""the ladder"" which was given to jacob's platoon induces what effect?",aggression and a dose urges to their most urges,it greatly increased aggression against others.,increased aggression,0.4,0.11111111109999999,7.58e-13,0.2053872054,0.1509433962
+269,madame de merret threatened to leave her husband if he did what?,if he were ever to open the closet,opened the closet,if he looked into the closet where he had heard a noise.,1.0,0.3032653298,5.04e-09,0.5865384615,0.37347321310000003
+270,how does the jury find in the case?,falder is,guilty,guilty,0.2,5e-16,2.66e-11,0.0,0.0
+271,how does simon rekindle his creativity?,he becomes emotionally attached to it,by painting carol in his hotel room.,by seeing carol frustrated by melvin,0.2,1.67e-16,2.3e-16,0.0,0.0
+272,what does tito learn from fra luca?,his adoptive father has been forced into slavery,he finds out that his adoptive father is asking for assistance after being forced into slavery.,his father has fallen into slavery is asking for assistance,1.0,0.681450685,6.26e-05,0.5791139241,0.266898614
+273,in what way do leonard and sayer communicate before leonard's awakenng?,by using a ouija board,with a ouija board.,through a ouija board.,1.0,0.5999999999,8.41e-05,0.6802973978,0.8760855751000001
+274,what is peculiar about the expedition they are going on?,"they are 10,000 years into the past","it is 10,000 years into the past",it is in the distant past,1.0,0.7142857141,0.6147881527,0.7142857143000001,0.9272727273
+275,which reason was given for capote's visit to spain?,insight into the human condition,he was writing the first 3 parts of the book,he was going to write the first three parts of his book,0.2,0.07357588820000001,6.250000000000001e-13,0.1257731959,0.02359882006
+276,who sends hector the letter really meant for him?,theodora,josiah,morella winmarleigh.,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+277,what job does joe quit before heading off to new york?,he quits a prostitute for women,dishwasher,dishwasher.,0.2,1.67e-16,2.3e-16,0.0,0.0
+278,why can't ed and hi have children?,they is infertile,ed is infertile.,hi is infertile.,1.0,0.6666666661999999,4.27e-06,0.6666666667,0.2851759176
+279,what people are the gothic tribes defending themselves from?,the wolfings and tyr,the romans,imperial rome,0.2,0.2499999999,2.54e-12,0.35465116280000003,0.08695652174
+280,what is soames unhappy about?,his own author,his obscurity and failure as a poet.,the his works are not recognized,0.2,0.1226264803,2.35e-10,0.2096219931,0.04188481675
+281,who does tom want to have access to his patents?,anyone,only himself.,only himself,0.2,3.68e-16,2.07e-09,0.0,0.0
+282,where did kimmy run off to hide?,in the bathroom of comiskey park,comiskey park,bathroom,1.0,0.49999999990000005,9.55e-09,0.5495495495,0.41536492350000004
+283,why is nadia kidnapped by alexei?,she was forced to have the baby,because he now wants her to have the baby,alexei wants nadia to have the baby.,0.2,0.5714285713,0.4111336168,0.5714285714,0.2272020959
+284,what does leon focus on in writing his letters?,the charms of ces demoiselles,the beauty of the women,the charms of ces demoiselles and appearance of boarders,1.0,0.9999999996,0.9999999995000001,0.6792873051,0.3492390011
+285,who escorted plummer's widow to zurich?,julie,captain bill fawcett,captain bill fawcett.,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+286,what is rebecca's best subject in school?,wareham,english,english,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+287,"instead of death, how does baron henry treat otto?",he keeps off his right hand,he cuts off his right hand,he cuts off his right hand,0.2,0.8333333331,0.5372849657,0.8333333333,0.39322491649999997
+288,who is the saracen king of africa?,emperor charlemagne,agramante.,agramante,0.2,5e-16,2.66e-11,0.0,0.0
+289,why does jani call jack?,to befriend him on playing his part in the casino,to thank him for his help in the robbery.,to congratulate him on his part in the robbery and have him talk to his father.,0.4,0.6999999999,0.3246679154,0.6068789085,0.1904842875
+290,why does claude become depressed?,he is unable to paint much,his inability to paint his masterpiece.,he isn't able to paint much.,1.0,0.8333333331,8.03e-05,0.7587064676999999,0.3500579646
+291,what do claude's paintings depict at the beginning of the story?,a female,he paints real people in places that actually exist.,real places and subjects,0.2,1.84e-16,9.779999999999999e-12,0.0,0.0
+292,"why did john coffey watch ""top hat""?",he had never seen a movie,john had never seen a movie before.,as a last request before execution.,1.0,0.8333333331,0.7598356853,0.7587064676999999,0.3825510289
+293,"towards the end of the story, how did almayer attempt to forget his daughter?",he began smoking opium,he smoked opium.,smoking opium,1.0,0.7499999998000001,1.88e-08,0.7093023256000001,0.43424514729999997
+294,how does mathilde die?,he shoots and kills him,by a sabotaged rifle.,the rifle explodes and she falls from the roof.,0.2,0.2,1.6999999999999998e-12,0.13585746099999998,0.024844720499999997
+295,what type of place do the jewish people want to live?,ghettos,a place without persecution.,a state.,0.2,3.68e-16,2.07e-09,0.0,0.0
+296,"once elise got to venice, what new instructions did pearce give to her?",to let her a man,pearce told elise to attend a ball.,pick out a random man and let the police know that the person is alexander pearce.,0.2,0.5362560366,1.61e-12,0.3236074271,0.09256198347000001
+297,"on a trip to nettleton, what present does harney buy for charity?",a present of a brooch,a brooch,a brooch.,1.0,0.3999999999,1.14e-08,0.6192893401,0.4022481364
+298,"who tries, unsuccessfully, to the enter la grande breteche on multiple occassions?",the doctor,dr. horace bianchon,dr. bionchon,1.0,5e-16,2.66e-11,0.0,0.1684210526
+299,where do sir leicester dedlock and his wife live?,chesney wold,on dedlock's estate at chesney wold.,sir dedlock's estate at chesney wold.,1.0,0.08208499854,8.209999999999999e-05,0.4039735099,0.19765641190000002
+300,what is mirandas view of rebecca?,all randall and no sawyer,she is no sawyer and all randall,miranda feels that rebecca is not up to her standards.,1.0,0.6703200457999999,1.14e-08,0.3236074271,0.3854622021
+301,why didn't sylvia and mary go to london?,sylvia did n't want to give mary up,she didn't want to raise mary alone.,she can't raise mary alone,0.2,0.6249999998,0.3655552228,0.625,0.345570042
+302,how does govinda finally find enlightenment?,by telling the visions of timelessness,by kissing siddhartha's forehead and seeing into the eternal circle of life and completeness that siddhartha has experienced.,he has the same visions as siddhartha,0.2,0.5643211497,1.55e-12,0.34659090909999996,0.1245136187
+303,what did anvoy do with the letter once she received it?,he declines it to anvoy it,she declined to read it.,did not read it,0.2,0.3333333333,1.5400000000000001e-12,0.3696969697,0.08743169399
+304,what did the housekeeper tell holmes she heard the night of the event?,nothing heard nothing in the night,nothing,she heard nothing.,0.6,0.3333333333,8.63e-09,0.5495495495,0.3560270773
+305,why did mrs. almayer push nina and dain together?,because she was distrustful distrustful,she didn't trust white men and wanted nina to stay native.,she wanted them to marry,0.3,0.19999999989999998,1.6999999999999998e-12,0.2,0.03636363636000001
+306,what does karl learn when he returns to the state hospital?,that he lied to kill one 's self,the value of sacrificing oneself to save others.,the value of sacrifing one's self to save another.,0.2,0.49999999990000005,4.6700000000000003e-05,0.3267857143,0.1742923646
+307,what 12 year old did karl become friends with?,vaughan,frank wheatly,frank wheatley.,0.2,3.68e-16,2.07e-09,0.0,0.0
+308,how does max's break through the siege end?,he gives him chase in humungus 's car,"he fails as wez runs max's car off the road, destroying his vehicle and severely injuring him.",his tanker rolls off the road,0.2,0.49999999990000005,6.990000000000001e-09,0.20701357469999998,0.1024706972
+309,where does liza live?,vere,"vere street, lambeth",with her aging mother.,1.0,0.04978706827,1.57e-06,0.3609467456,0.1340782123
+310,where does kate go when she leaves pete?,to philip africa,to phillip's house,london,0.2,0.23884377,4.58e-10,0.27853881280000004,0.045977011490000004
+311,what are capote's intentions while in kansas?,to interview the tragedy,capote plans on writing a full-length book.,document what happened,0.2,2.5e-16,4.519999999999999e-16,0.0,0.0
+312,what does valka tell her son to encourage him to continue to fight?,that he can unite humans and dragons,that he is the only one who can unite humans and dragons again.,that he alone can unite humans and dragons.,1.0,0.8668778995,0.6129752412,0.9222462203,0.4455761914
+313,how does kathryn really intend to use cecile?,she blackmails her a letter from ronald,"to get revenge on her ex-lover, court reynolds.",to get revenge on her ex lover court,0.2,0.1238396999,9.050000000000001e-13,0.13174946,0.0231884058
+314,what type of weather conditions were there when innocent was left as a baby?,a storm,a violent storm,there was a violent storm.,1.0,0.6065306590999999,1.08e-07,0.7721518987,0.24427480920000003
+315,what is the visionary rhyme?,a panacea law/,an account on which the witch pranks mankind,it tells the story of the pranks the witch plays on humans.,0.2,6.3e-17,2.15e-14,0.0,0.0
+316,how did hi and ed meet?,they meet after she takes the mugshots of the recidivist,after ed took mugshots of hi.,they met when ed took hi's mugshot.,0.7,0.4,5.31e-09,0.3927038627,0.21974325
+317,what does peter discover about jack's director friend on the news?,peter 's friend is hospitalized after a mugging,he was mugged,he's in the hospital,1.0,0.125,8.780000000000001e-13,0.1605263158,0.1021753288
+318,what is the deal the devil offers?,the devil will be returned to their works and location,soames will be transported to the future for one afternoon in exchange for his soul,the devil gets soames' soul in exchange for soame to ge a glance of what people say about him posthumously as an author anwhile the,0.2,0.3032653298,4.05e-09,0.23164556960000002,0.06760974552999999
+319,how is the stratosphere destroyed?,by domino blows up the top of the stratosphere,alf uses plastic explosives in a bag and a remote detonator to blow-up the stratosphere.,it is blown up by alf,0.2,0.44444444439999997,6.03e-09,0.1856925419,0.17788553070000002
+320,what happens to newton's eyes during the x-ray by the fbi?,he is sensitive eyes are blinded,he is blinded.,he is blinded,0.7,0.49999999990000005,9.55e-09,0.7093023256000001,0.36920268850000004
+321,what was grassou's wife's name?,grassou de fougres,virginie.,virginie,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+322,why does mary have to educate herself?,to escape her daughter,she is neglected by her mother,her parents ignore her,0.2,0.2499999999,2.54e-12,0.25,0.05
+323,who was louis kerneguy introduced as?,scotch,alberts scotch page.,albert's scotch page,0.2,0.135335283,4.28e-06,0.4586466165,0.14814814810000002
+324,when did crito visit socrates?,before he is visited before he is visited out of prison,crito visited in the early morning.,before dawn,0.2,0.1818181818,7.09e-13,0.17579250719999998,0.1454545455
+325,who turns falder over to the police?,his father,walter how,robert cokeson,0.2,5e-16,2.66e-11,0.0,0.0
+326,what happens to brewster the night before the deadline?,he strikes the night,the executor of his uncle's will disappears after liquidating all of the assets.,he finds out the executor of his uncle's will disappeared after liquidating the assets.,0.2,0.04104249928999999,2.48e-13,0.190625,0.032
+327,why does melvin bring a plastic fork with him to the restuarant?,to ask his estranged parents for money,he's afraid of germs,fear of germs,0.2,1.4299999999999998e-16,1.8600000000000001e-16,0.0,0.0
+328,why does catch call sharon to apologize?,his mother-in-law is stood,after receiving advice from his mother-in-law.,his mother-in-law tells him to.,0.2,0.38940039130000004,1.32e-08,0.4357142857,0.2998130749
+329,why does lilly claim roy literally does not have the stomach for the grift?,because she is not really her son,she is being sarcastic in response to his internal bleeding after being punched in the stomach.,because they beat him in the stomach,0.2,0.4285714284,7.73e-09,0.1796759941,0.08163265306
+330,where do hi and ed bring the baby?,in the arizona market,to the arizona home.,back home,0.2,0.4999999998,1.7e-08,0.5,0.23883483100000003
+331,how is max's dog killed?,he is a crossbow,he is killed with a crossbow.,the marauders kill it,0.4,0.9999999995000001,2.4e-08,0.7721518987,0.304895529
+332,how is pandarus related to criseyde?,he is his uncle,he's her uncle.,pandarus is criseyde's uncle,0.8,0.7499999996,3.34e-12,0.5,0.2335766423
+333,what happen to travis fox in the canyon?,he gets captured by three men,he was captured by three men.,gets captured,1.0,0.9999999997,0.6042750792,0.9242424242,0.4475730757
+334,why does barbara drew turn down brewster's marriage proposal?,he turns him to win her back,she believe's he is financially irresponsible.,as he seemed to be financially irresponsible and doomed to be poor,0.2,0.2857142856,1.24e-12,0.2009884679,0.07358686837999999
+335,what is unique about the phonetic spelling of the 'future' article that discussed beerbohm's story?,it is modified pronunciation and both evolved during the intervening century,"the spelling of most words is modified, presumably because of the change of language with time",the english lanuage has evolved.,0.7,0.3636363636,4.74e-09,0.2245398773,0.12213740460000001
+336,what is roberta's fund raising concert called?,fiddlefest ',fiddlefest.,fiddlefest,1.0,0.4999999998,1.5e-07,0.7093023256000001,0.380952381
+337,what happens to laura when she can not get any more goblin fruit?,she falls into the brook 's depression,she gets sick.,she withers away and begins to die.,0.2,0.1428571428,1.04e-12,0.2155477032,0.04968944098999999
+338,who set jack up with the croupier job?,his father,jack's father.,his dad,1.0,0.999999999,1.78e-07,0.5,0.7
+339,how does christopher feel towards mr. fetcher?,he aids,he hates mr.fletcher.,hatred,0.2,0.4999999998,1.5e-07,0.38607594939999995,0.06106870228999999
+340,what did jean valjean go to prison?,nineteen a loaf of bread and trying to escape multiple times,he was caught stealing bread.,stealing bread and attempting escape.,0.6,0.2727272727,4.41e-09,0.4021978022,0.3033847853
+341,what is ironic about donnie's teeth being knocked out when he falls from the pole?,he is dragged to safety by jim,he no longer has to worry about getting braces on his teeth.,he was seeking money from his job for braces and oral surgery.,0.2,0.1398690455,6.08e-13,0.2009884679,0.0693289109
+342,who did kate fall in love with?,philip,phillip,phillip,1.0,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+343,what does socrates tell crito not to worry about?,it would be better not to attempt an escape,public opinion,public opinion,0.2,1.11e-16,1.35e-16,0.0,0.0
+344,what are people arguing about as the story begins?,that they are unmask,a black cloak,the black cloak,0.2,2.5e-16,4.519999999999999e-16,0.0,0.0
+345,why did orange shot blonde?,he was bleeding,blonde was going to set nash on fire.,because blonde tried to set nash on fire.,0.2,0.06295853424,1.21e-10,0.16804407710000002,0.02492211838
+346,how did anne feel after roy proposed to her?,she rejects him,she realized she was only chasing a dream and was not in love with roy.,she realizes she doesn't love him just the idea of being in love,0.2,0.017041022130000003,1.94e-11,0.21070811739999998,0.054982817870000006
+347,"who believed that names came about, due to custom and convention?",hermogenes and cronus,hermogenes believed this.,hermogenes,0.5,0.33333333309999996,6.39e-10,0.5495495495,0.3333333333
+348,what accusation does myra make of roy after he turns down her offer?,she strikes her,an incestuous interest in lilly.,myra accuses roy of having an incentuous flame for his mother.,0.2,1.71e-16,5.83e-14,0.0,0.0
+349,where does gilbert discover that helen is rich?,grassdale,in grassdale.,staningley.,1.0,0.999999998,3.16e-05,0.6288659794,0.3116883117
+350,what does frank tell shaw when he confronts him?,that he should open the safe,"that he is really pearce, not an american tourist.","he reveals that he is actually pearce, and bargains for elise's life by offering to open the safe.",0.2,0.4278475991,4.1200000000000005e-05,0.3505747126,0.12887589929999999
+351,what does jean do after the kind bishop offers his shelter?,he breaks his parole,his steals the bishop's silverware.,steals the silverware,0.2,0.2499999999,2.54e-12,0.19303797469999998,0.03265306122
+352,who questioned peter and michael about the drugs?,melkowitz,sgt. melkowitz.,sgt. melkowitz,1.0,0.3678794404,1.1599999999999999e-05,0.6288659794,0.2162162162
+353,what evidence do cathleen and nora receive that confirms the death of michael?,a body that may be their brother michael,michael's clothing,clothing,0.2,0.125,8.780000000000001e-13,0.19805194809999999,0.1304347826
+354,what does pete do to make people believe the lies he is telling about kate's disappearance?,pete multiplies his feverish and unburdes with kate,fakes letters between him and kate,he fake written corrospondence,0.2,0.25,1.04e-12,0.2932692308,0.1364356942
+355,what did laura save from the goblin's fruit?,a lock of her hair,a seed,a seed,0.2,0.2,1.6999999999999998e-12,0.3096446701,0.08421052632
+356,what date does the enterprise arrive on earth of the past?,"april 4 , 2063 , 2063 , 2063 , 2063 , 2063 , and 2063",04/04/2063,"april 4, 2063.",0.6,0.2666666666,0.164519294,0.4701348748,0.4146654221
+357,how many deaths was dorian directly responsible for in the story?,dorians,two,four.,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+358,what are two examples of e.t.'s psychic connection with elliot?,the alien including exhibiting signs of intoxication,elliot feels intoxicated when e.t. drinks some beer and he mimics a scene from a movie e.t. is watching.,"elliot feels intoxicated when e.t. drinks alcohol and he becomes very ill when e.t. is ""dying.""",0.2,2.97e-17,3.86e-17,0.0,0.01969904241
+359,where is princess irene's mother?,"in a castle in a castle in a wild , mountainous kingdom",she is dead.,dead,0.2,8.329999999999999e-17,9.58e-17,0.0,0.0
+360,from where does this play originate?,mount helicon,church choir,boys' company,0.2,5e-16,2.66e-11,0.0,0.0
+361,who kills drexl?,coccotti,clarence.,clarence,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+362,where is the opium den located?,opium 's,paris,england.,0.2,5e-16,2.66e-11,0.0,0.0
+363,what does catch tell sharon as they are about to leave the ceremony?,that he does n't have a daughter,catch tells sharon that he will drive.,that he will drive,0.2,0.2857142856,6.990000000000001e-09,0.3824451411,0.1326860172
+364,why did nina's mother want her to marry dain?,she was highly distrustful of the white men and their ways,she wanted her daughter to stay native because she did not trust the white men.,so that nina would be more native,1.0,0.3636363636,3.17e-05,0.2993865031,0.1224794005
+365,where did the majority of the story occur?,in the soviet union,london.,the strand magazine,0.2,0.2499999999,2.54e-12,0.2932692308,0.055944055939999994
+366,who is the real father of kate's baby?,pete,phillip,philip,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+367,what is mary taught after her brother dies?,dancing,accomplishments,she learns how to dance.,1.0,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+368,who does aaron hancock resemble?,frank strawn-hamilton,frank strawn- hamilton.,bearded hobo philosopher frank strawn-hamilton,1.0,0.6065306590999999,0.0006065306592000001,0.5304347826,0.28019192589999997
+369,how does rebecca obtain the sawyer house?,she bless the brick house,miranda dies,miranda dies.,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+370,"another student at harvard medical school, seth lazurus, went to work in what city?",new york city,chicago,chicago,0.2,3.33e-16,1.1400000000000002e-13,0.0,0.0
+371,where did men went after the robbery?,to set nash on fire,joe's warehouse.,one of joe's warehouses,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+372,what does conan do when saving balthus from zogar sag?,he raises the picts against jhebbal against the borderlands,lights the village on fire,burns the village.,0.2,0.11111111109999999,7.58e-13,0.18318318320000002,0.1088
+373,who was in reponsible for choosing the war dukes?,thiodolf,the men of the mark.,the men of mark,0.2,4.98e-17,2.7999999999999996e-10,0.0,0.0
+374,why does the professor dislike the other boarders?,misunderstanding,because they are not from germany,because of their national traits and sub-human status/because they are not german,0.2,6.74e-18,3.79e-11,0.0,0.0
+375,what profession does fantine resort to after she is dismissed from valjean's factory?,she becomes a prostitute,prostitution,prostitute,1.0,0.2499999999,2.54e-12,0.4485294118,0.32
+376,what traumatized ted striker?,flying flying,a experience in the war,his time in an unnamed war,0.2,1.1200000000000002e-16,5.93e-12,0.0,0.0
+377,"in kathryn and sebastian's bet, what is the prize if sebastian fails?",to have sex with him,kathryn get's his vintage jaguar,his jaguar,0.2,1.64e-16,2.47e-16,0.0,0.08387096774
+378,what was the context of the letter?,it was a love note,a love note,a compromising love note,1.0,0.5999999999,8.41e-05,0.7854077253,0.49705280009999997
+379,why does john take nadia to turn her into the police?,to clear his name as a wanted bank robber,he hopes to clear his name as a wanted bank robber,st albans,1.0,0.8007374026999999,0.8007374026999999,0.8840579709999999,0.5202637602
+380,who abandons the city of troy after foreseeing its fall?,calchas and criseyde,"calchas, a soothsayer.",calchas.,0.5,0.23884377,4.58e-10,0.5495495495,0.3333333333
+381,when does anne realize her true feelings for gilbert?,after she rejects anne,when he becomes sick,when she finds out he has typhoid fever and is gravely ill.,0.2,0.2499999999,2.54e-12,0.1146616541,0.02010050251
+382,how does barabas trick lodowick and mathias into fighting?,by turn his daughter 's son,he uses abigail's beauty.,he uses his daughter's beauty to provoke a fight.,0.2,0.49999999990000005,6.39e-05,0.35882352939999995,0.1652378879
+383,how does savonarola die?,he is killed by baldassarre,burned at the stake.,he's burned at the stake,0.2,0.2,1.6999999999999998e-12,0.1788856305,0.037383177569999995
+384,who helps recapture denise after she escapes?,dr. satan firefly mother firefly,captain spaulding.,captain spaulding,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+385,when livingstone graduates what does he become?,an author,he becomes a lawyer after graduation.,he became an author,1.0,0.36787944079999996,0.0003678794409,0.6288659794,0.2581998173
+386,the events of the story act as a sequel to which episode?,the best of both worlds worlds,best of both worlds,best of both worlds,0.8,0.6666666666,0.508132748,0.8299319728,0.5144198396999999
+387,what is the london play called?,acorn planters,the acorn planters,the acorn planters,1.0,0.6065306590999999,0.0006065306592000001,0.7721518987,0.4183967843
+388,what was the place that was shot up?,the trumpet,the diner,a diner.,0.2,0.4999999995,1.5e-07,0.5,0.1
+389,what happens when orlando sniffs the contents of astolfo's bottle?,he sniff them to sanity,his mind is restored.,his mind is restored to sanity.,0.9,0.3999999999,1.14e-08,0.357771261,0.1612387045
+390,why does udall agree to pay for spencer's medical care?,because she is a doctor,so his mother can continue working at the restaurant,so that carol can go back to her job as a waitress in melvin's favorite restaurant,0.2,0.08986579279,7.63e-13,0.08276797829,0.021157024790000003
+391,how did dain fool the rajah into thinking that he was dead?,he found out his ship to kill almayer,he killed one of almayer's slaves and put his ring and ankle bracelet on the corpse to make it look like himself.,dain used the body of the dead slave with an ankle bracelet,0.2,0.3032653298,7.53e-13,0.17801556420000003,0.05555555556
+392,what species lives in the nearby mines?,a race of goblins,the goblins,goblins.,1.0,0.2499999999,2.54e-12,0.4485294118,0.32
+393,what does jason do with adrienne?,kills her face,freezes and smashes her face,he smashes her head on a counter after freezing it with liquid nitrogen.,0.2,0.34227807909999997,2.19e-06,0.4784313725,0.18371910079999998
+394,how does lodowick and mathias die?,they turn on a duel,after a duel.,they kill each other in a duel.,0.6,0.5999999999,1.26e-08,0.6376306620000001,0.3411926157
+395,sir leicester suffers from a stroke upon learning of whose death?,his wife 's wife,tulkinghorn,lawyers,0.2,2.5e-16,4.519999999999999e-16,0.0,0.0
+396,who was beth supposed to ask for permission before marrying?,francis walsingham,elizabeth.,the queen,0.2,5e-16,2.66e-11,0.0,0.0
+397,what happens after the people involved in the mexican standoff shoot?,both cabots are killed and white and orange orange wounded wounded,the cabots are both killed and white and orange are severely wounded.,both cabots are killed and white and orange are wounded,0.7,0.8181818181,0.6989307621999999,0.8645669291,0.5131120551
+398,what valley do they travel to?,the atlas lake to the austral lake to the nile valley,the nile valley,nile valley,0.6,0.2727272727,2.95e-05,0.4778067885,0.38600908939999995
+399,how does kamala die?,bitten by a venomous snake,she is bitten by a snake.,poisonous snake bite,1.0,0.6549846022,7.4e-05,0.715542522,0.3764884036
+400,"which decepticon hacks into the pentagon network, while aboard air force one?",john keller,frenzy.,frenzy,0.2,5e-16,2.66e-11,0.0,0.0
+401,what job did ellen have before marrying ernest?,clergyman,she was the maid for ernest's parents.,a maid in his parents' house,0.2,2.48e-18,1.39e-11,0.0,0.0
+402,what does reiko discover saves viewers of the tape from their imminent death?,that the yamamura the tape and showing her father,the tape has to be copied and passed on to someone else.,making a copy and showing it to someone else,0.2,0.4444444443,7.170000000000001e-09,0.27853881280000004,0.1051141772
+403,who led the autobots during the civil war that consumed the planet cybertron several thousand years ago?,optimus prime and decepticons,optimus prime,optimus prime,0.5,0.49999999990000005,1.7e-08,0.7093023256000001,0.43424514729999997
+404,why does rebecca return to the farm?,her mother falls ill,her mother is ill,her mother is sick,1.0,0.7499999996,1.88e-08,0.75,0.9387984279000001
+405,what does lilly do to get out of late rent with her landlord?,she uses her sex appeal to lure him into bed,she offers sex to forget the rent,she uses her sex appeal,1.0,0.5999999999,0.4111336169,0.7093023256000001,0.49141930590000005
+406,why does magus make so much money selling forgeries?,to make a large profit,the people who buy the paintings don't know they're fakes,he sells them for a large profit.,0.9,0.4021920275,5.6399999999999995e-05,0.4854111406,0.2519781556
+407,what does orange turn out to be?,an undercover police officer,an undercover cop.,a police officer,1.0,0.9999999998000001,2.4e-08,0.5865384615,0.3847003989
+408,what type of weapon does patrick chase christie with?,a chainsaw,chainsaw,chainsaw,1.0,0.4999999998,1.5e-07,0.7093023256000001,0.380952381
+409,why does claudia think her past will cause problems for her and jim?,she does n't want to hate her problems,jim doesn't know she's a drug addict.,because she is a drug addict and he is a cop.,0.2,0.3309363384,5.74e-09,0.2328244275,0.17594361030000003
+410,what is the real name of the man called hurry harry?,wah-ta-wah,henry march,henry march,0.2,3.68e-16,2.07e-09,0.0,0.0
+411,what was the description of the teens faces when they died?,they watched a weird tape,twisted in fear,their faces twisted in fear.,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+412,what school does laura attend after high school.?,harvard,laura attends radcliffe college.,harvard medical school,1.0,0.135335283,4.28e-06,0.4586466165,0.14814814810000002
+413,what is the subject of cratylus?,correctness of names,the correctness of names.,the correctness of names,1.0,0.7165313101,0.02265870954,0.8356164384,0.4622274447
+414,which disk used by starman to understand english?,the voyager 2 disk,voyager 2 disk,voyager 2 disk,1.0,0.7499999998000001,0.0001257433429,0.8798076923,0.509857439
+415,why does elliot appear intoxicated at school?,he is imitating a connection with the alien,"he is experiencing a psychic connection with e.t., who is drinking beer at elliot's house.",he has a psychic connection with e.t.,0.2,0.6249999999,8.78e-09,0.5922330097,0.23000710359999998
+416,what does catch do?,he starts to play a soulful version of the tune nature,he wanders the streets and does good deeds for strangers and neighbors.,he use to be a jazz musican,0.2,0.332036624,7.700000000000001e-13,0.3472485769,0.1260942829
+417,what will happen to jews who wish for a state?,jews will have have into existence,they will have it.,they got it,0.2,0.3333333333,8.63e-09,0.4149659864,0.19496720899999997
+418,when do corleone assassins kill the other new york dons and moe greene?,when michael stands at the altar,while michael is standing at the alter for connie's baby's christening,during connie's baby's christening,1.0,0.4999999998,9.55e-09,0.29611650489999997,0.1413598523
+419,what was the story lizzie reminds laura about?,"jeanie tale of of jeanie , another girl","a story about jeanie, another girl ate the goblin's fruit and died after being really sick",the tale of a girl named jeanie who ate goblin fruit and died.,0.5,0.40144607130000004,0.220063967,0.29611650489999997,0.1575047259
+420,what can't fletcher do for one day?,he running his own law firm,tell a lie.,tell lies.,0.2,1.67e-16,2.3e-16,0.0,0.0
+421,what does mary horowitz do for a living?,she is a crossword puzzle writer,creates crosswords,crossword puzzle writer,1.0,0.49999999990000005,6.39e-05,0.7093023256000001,0.49367148850000003
+422,where do the group gather ?,hoover dam,the hoover dam,at hoover dam,1.0,0.6065306590999999,0.0006065306592000001,0.7721518987,0.4183967843
+423,who's name is the letter addressed to that sir robert reads in the final act?,lady chiltern,the addressee's name is not mentioned,no one,0.2,5e-16,2.66e-11,0.0,0.0
+424,who was the first person to notice something was wrong with mortimer's siblings?,tregennis,the housekeeper,their housekeeper.,0.2,3.68e-16,2.07e-09,0.0,0.0
+425,what is reiko's job?,reporter,reiko is a reporter.,a reporter,1.0,0.3678794404,1.1599999999999999e-05,0.6288659794,0.3116883117
+426,who takes the baby?,hi,gale and evelle.,ed.,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+427,what happens during opening hour?,rogan falls on a bar,rogan falls prey to fears and doubts.,rogan was nervous about his play and decided to kill the drama critic for the local newspaper,0.2,0.2681280183,7.62e-09,0.3236074271,0.1780135386
+428,where does philammon end up after hypatia's death?,the desert,in the desert as the abbot of a monastery.,back at him monastery in the desert,1.0,0.08208499854,8.209999999999999e-05,0.4039735099,0.14312199609999998
+429,why does the bus driver abandon mary?,he annoys mary with a trucker passengers,because she annoys the passengers too much.,mary was abandon because she was annoy,0.2,0.4285714284,1.3700000000000002e-12,0.2857142857,0.1437125749
+430,how is jason killed at the end of this story?,he kills his skull against his head,incinerated in the atmosphere,burnig up in earth two's atmosphere,0.2,1.4299999999999998e-16,1.8600000000000001e-16,0.0,0.0
+431,what did karl kill doyle with?,two chopping blows of the lawnmower blade to the head,lawn mower blades,lawnmower blade.,1.0,0.2,4.46e-09,0.37888198759999997,0.3538293793
+432,in what estate did helen live with huntingdon?,staningley hall,grassdale.,wildfell hall.,0.2,0.4999999995,1.5e-07,0.5,0.2
+433,what prevents blonde from setting nash on fire?,gunshots sound and white ear,orange shoots blonde.,orange kills him by gun.,0.2,2e-16,3.0200000000000003e-16,0.0,0.0
+434,bennett landsmann ends up working for what institution after school?,pediatrics,yale-new haven hospital,yale-new haven hospital,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+435,who comes to pick up the package the next day ?,two men,drug dealers,the drug dealers,1.0,5e-16,2.66e-11,0.0,0.0
+436,which of her children does eliza favor over the other?,mary,eliza favors her son over her daughter.,her son.,0.2,3.68e-16,2.07e-09,0.0,0.0
+437,who gets the credit for saving the last child in the mine?,mary,hartman huges,hartman,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+438,who helps barabas get back some of his assets?,his daughter abigail,abigail,abigail,1.0,0.3333333332,6.39e-10,0.5495495495,0.3333333333
+439,what do the silver spheres allow starman to do?,visit earth,they provide energy for him to perform amazing things.,provide energy to do miraculous work,0.2,6.770000000000001e-17,3.6000000000000004e-12,0.0,0.0
+440,what did percy fail to do which resulted in del's painful death?,he groped another prisoner,he failed to soak the sponge that would've conducted electricity to del's head.,soak the sponge.,0.2,0.2499999999,2.54e-12,0.0953125,0.013536379019999998
+441,who warns settlers of the pictish attacks?,conan and balthus,both balthus and conan warn people.,balthus,1.0,0.9999999997,8.41e-10,0.5495495495,0.3333333333
+442,what does frank saltram do for work?,he has a towering intellect,he does not work.,nothing,0.2,0.2,1.6999999999999998e-12,0.2267657993,0.0490797546
+443,who publicly objects to the exchange of a prisoner of war for criseyde?,antenor,hector of troy,hector of troy,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+444,how old is paul?,108 years of age,108 years old.,108,1.0,0.49999999990000005,1.7e-08,0.7093023256000001,0.8241563055
+445,who made the original cursed videotape?,shizuko yamamura,"sadako yamamura, the daughter of a psychic who committed suicide.",sadako yamamura made the tape psionically.,1.0,0.06766764155,2.02e-08,0.22932330829999997,0.08275862069
+446,what ghost emerged from a painting at dana's workplace?,vigo the carpathian of moldavia,vigo,vigo.,0.8,0.2,1.6999999999999998e-12,0.37888198759999997,0.2857142857
+447,where the crashed alien craft fell down?,chequamegon bay,"chequamegon bay, wisconsin","chequamegon bay, wisconsin.",1.0,0.36787944079999996,0.0003678794409,0.6288659794,0.304895529
+448,what is letour's attitude when ann visits him in jail?,letour,"hopeful for the future, relief that she is alive.",relief and hope,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+449,what did colonel everhard come to offer?,his father 's son,protection on behalf of himself and his father,everard came to offer his protection,0.2,0.3032653297,1.03e-08,0.3144329897,0.1278045918
+450,what are mulder and scully doing at the beginning of the story?,helping investigate a bomb threat against a building in dallas,investigating a bomb threat,investigating a bomb threat.,1.0,0.3,3.3e-05,0.4644670051,0.3311878485
+451,what does baron henry do to otto after taking him captive?,he attacks the castle,he cuts off his right hand.,he cut off ottos' right hand.,0.2,0.1516326649,1.5400000000000001e-12,0.19303797469999998,0.030534351150000003
+452,how are frank and linda related?,they are cousins,linda is frank's stepmother.,linda would be frank's step mother.,0.2,1.71e-16,5.83e-14,0.0,0.03550213932
+453,what does sharon find out about steve lambert?,that he is a traffic accident,he is the man whose hand she was holding a year earlier at the traffic accident.,he was the man who was in the accident and she held his hand,0.2,0.21966428170000002,3.4000000000000003e-09,0.4201101928,0.15275724300000001
+454,who does socrates compare going against the law to?,crito,your parents,one's parents.,0.2,3.68e-16,2.07e-09,0.0,0.0
+455,what emotion do most of the characters feel for each other?,unawareness,disdain.,disdain,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+456,what responsibilty did elizabeth give raleigh instead of allowing him to go to the new world?,captain him,she knighted him and made him captain of the royal guard.,to join sir francis drake in battle,0.2,0.08208499854,1.46e-08,0.1367713004,0.1083521445
+457,what happened for the first time in 20 years after the long parliament dissolved itself?,there was a general election,a general election,general election occurred,1.0,0.5999999999,8.41e-05,0.7854077253,0.49705280009999997
+458,who asks the question what is love in the beginning of the story?,love,pozdnyshev,man who killed his wife,0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+459,who does ted require a pep talk from in order to land the plane?,dr. rumack,"rex kramer, his old commanding officer",kramer.,0.2,5e-16,2.66e-11,0.0,0.0
+460,by what ailment is christopher's mother plagued?,he is blind,she is blind.,blindness,0.8,0.6666666661999999,4.27e-06,0.6666666667,0.38213572960000003
+461,which remarkable habit did enoch soames demonstrate with regard to choice of clothing?,that,always wore a grey waterproof cape and a soft black hat,he always wore a gray waterproof cape and a soft black hat.,0.2,4.5399999999999997e-20,2.5499999999999997e-13,0.0,0.0
+462,why did nina not want to go back?,to avoid the 's slurs,she thought the white society would use slurs.,she did not want to be exposed to the negatives of white society,1.0,0.32928698149999996,1.23e-12,0.2953995157,0.09523809524
+463,what is the reason that the inca wanted to meet the princess?,to marry her intentions,he wanted the princess to marry one of his sons.,he wanted to propose marriage,0.2,0.38940039130000004,1.32e-08,0.2652173913,0.11579870589999999
+464,what causes mulder to call an ambulance?,the driver is stung by a bee,scully is stung by a bee and loses consciousness,scully is stung by a bee and passes out,0.2,0.5367694949,0.4619993368,0.6112224449,0.3101335254
+465,what type of literary passage is this story?,greek,this story is a literary dialogue.,it is a critique on naming.,0.2,6.74e-18,3.79e-11,0.0,0.0
+466,"how does apollonia vitelli, michael's first wife die?",a car bomb,in a car bomb meant for michael,car bomb explosion,1.0,0.9999999993,0.031622776580000005,0.7721518987,0.3294273531
+467,who bail flecher reeds out of jail?,his assistant greta,greta,greta,1.0,0.3333333332,6.39e-10,0.5495495495,0.3333333333
+468,where did bill work when he lived in chicago?,steel mill,bill worked in a steel mill.,at a steel mill.,1.0,0.36787944079999996,0.0003678794409,0.6288659794,0.3722101263
+469,what did madam de merret's husband discover about her?,that her husband had a spanish lover for a short trip,that she was having an affair.,he discovered that she had a lover.,0.6,0.3636363636,4.74e-09,0.4629981025,0.2081027967
+470,what was the witch able to forsee for mankind?,a future utopia for all mankind,a utopia,utopia,1.0,0.3333333333,1.5400000000000001e-12,0.5495495495,0.3076923077
+471,where did the clutter family live?,kansas farm,in kansas,a kansas farm,1.0,0.999999999,0.0009999999991,0.7721518987,0.4183967843
+472,who was the affidavit copyist?,kenge tulkinghorn,a pauper known as nemo,nemo,0.2,5e-16,2.66e-11,0.0,0.0
+473,how did charity pay for her doctor visit?,she gives her money to buy care of her child,with the brooch that harney gave her.,she gave the doctor her brooch,0.2,0.2,7.94e-13,0.2618025751,0.148911751
+474,how did hermogenes see the formation od word use?,by letters,from culture and convention,custom and convention,0.2,3.03e-16,1.61e-11,0.0,0.0
+475,what is mr. roundhay's profession?,the local vicar,he is a vicar.,mr. roundhay is the local vicar.,1.0,0.7165313101,0.02265870954,0.6288659794,0.28019192589999997
+476,how do the boys avoid the police roadblock?,they escape them into the air and they were bike,e.t. uses telekinesis to lift them into the air.,e.t. lifts them into the air.,0.4,0.4,0.2626909894,0.5236051502,0.29878631780000003
+477,who drives the car that follows the chuns?,mr. chun,zoe,zoe,0.2,5e-16,2.66e-11,0.0,0.0
+478,in how many days does criseyde promise to return to troy?,ten days,10,ten,1.0,0.4999999998,1.5e-07,0.7093023256000001,0.6
+479,into what three sections is the forest of mirkwood divided into?,"the upper-mark , the mid-mark and the nether-mark","upper-mark, mid-mark and nether-mark","upper, mid and nether mark",1.0,0.6249999999,8.78e-09,0.8026315789,0.4957207346
+480,what is malcom's job?,he is a physician,doctor,he's a doctor,1.0,0.4999999998,3.02e-12,0.5,0.2869540312
+481,what does jack give to clara when he arranges their meeting?,his paymenta thick envelope,an envelope with money in it,an envelope full of cash.,0.4,0.1947001957,1.98e-12,0.2178571429,0.12
+482,why does christopher accept blame for will's crime?,he aids will to ruin his grandson,because christopher influenced will to hate mr. fletcher.,because christopher realizes his sin.,0.2,0.3715190998,6.7000000000000004e-09,0.26349892010000003,0.05041368465
+483,"why did karl's brother ""come too soon""?",he was in the custody of his parents,karl's parents performed an at home abortion.,the parents aborted the baby,0.2,0.2499999999,1.04e-12,0.3210526316,0.1434977578
+484,what is in the letter that the narrator gives to saltram?,a denunciation of saltram 's most acts,a denunciation of saltram's most immoral acts,information about the worst and most immoral things saltram has done.,0.4,0.8668778995,0.7289545181,0.9222462203,0.47032671060000003
+485,who is ernest's godfather?,alethea,overton,"overton, the narrator of the story.",0.2,9.999999999999999e-16,5.620000000000001e-09,0.0,0.0
+486,"according to mary, what type of marriage was eliza living?",she is a marriage,conventional and loveless.,unrequited,0.2,2.5e-16,4.519999999999999e-16,0.0,0.0
+487,who from the artistic community recognized and helped claude's genius?,sandoz and bongrand,an elder statesman,bongrand,0.6,0.33333333309999996,6.39e-10,0.5495495495,0.3333333333
+488,who does paul mistake patrick for?,marcus,marcus halberstram,marcus halbertstram.,1.0,0.3678794404,1.1599999999999999e-05,0.6288659794,0.2162162162
+489,who punishes troilus for mocking love?,troilus,god of love,the god of love,0.2,1.35e-16,7.610000000000001e-10,0.0,0.0
+490,what do the ghostbusters animate to help them get into the museum?,positively charged and a remix of liberty,the statue of liberty.,the statue of liberty,0.2,0.2857142857,6.990000000000001e-09,0.3824451411,0.2111247125
+491,what challenge does asotus propose to all comers?,he challenges all comers to a competition of court compliment,"""court compliment""","to a competition of ""court compliment""",1.0,0.5999999999,0.3123939937,0.6802973978,0.41746716479999996
+492,what job does ernest take up after he is released from prison?,he becomes a author,tailoring,tailor,0.2,2.5e-16,4.519999999999999e-16,0.0,0.0
+493,what profession does ernest take up when he gets out of prison?,he becomes an author,he decides to become a tailor.,he becomes a tailor,0.2,0.4999999998,1.7e-08,0.5,0.2203009018
+494,what life event is scheduled to happen to tolstoy in 1910?,the last year of leo tolstoy 's life,he will die.,his death,1.0,1.25e-16,1.56e-16,0.0,0.09458128079
+495,what makes you think that mary will have a short life?,she does n't want to be unrequited,mary is not healthy and the story implies that she will die young.,by the last few lines of the novel.,0.2,0.1238396999,9.050000000000001e-13,0.09486780715,0.016913319240000002
+496,why did almayer's wife loathe him?,she was distrustful,he stays home and dreams of riches and splendor.,he dreamed of riches and splendor,0.2,1.23e-16,4.18e-14,0.0,0.0
+497,why did the police come back for falder after he left prison?,for failing to the authorities,he failed to report to the authorities,he failed to report,0.2,0.5999999999,8.41e-05,0.4854111406,0.20901413829999999
+498,how does grassou rate his paintings?,by works by elias,mediocre.,mediocre,0.2,2.5e-16,4.519999999999999e-16,0.0,0.0
+499,what did the witch not want feared?,a future utopia for all mankind,death.,death,0.2,1.67e-16,2.3e-16,0.0,0.0
