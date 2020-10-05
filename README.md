@@ -38,5 +38,5 @@ ROUGE-L-KPQA    | 0.735      | 0.674 <br>
 BERTScore-KPQA  | 0.698      | 0.66 <br><br>
 
 <h3> Train KPQA (optional) </h3>
-You can train your own KPQA model using the provided dataset or your own dataset using "train.py".
+You can train your own KPQA model using the provided dataset or your own dataset using "train.py".<br>
 You can train using the default setting with "train_kpqa.sh"
