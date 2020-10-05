@@ -185,8 +185,8 @@ if __name__ == "__main__":
     r1s_k_max = np.max(r1s_k, axis = 0)
     
     ## Compute Correlation
-    lst = [list(scores),  b1s_max, b4s_max, rs_max, ms_max, cs_max, f1_max_o, b1s_k_max, rs_k_max, f1_max]
-    df = pd.DataFrame(lst, index=['Human',  'BLEU-1','BLEU-4', 'ROUGE-L', 'METEOR', 'CIDEr','BERTScore','BLEU-1-KPQA', 'ROUGE-L-KPQA', 'BERTScore-KPQA']).T
+    lst = [list(scores),  b1s_max, b4s_max, rs_max, cs_max, f1_max_o, b1s_k_max, rs_k_max, f1_max]
+    df = pd.DataFrame(lst, index=['Human',  'BLEU-1','BLEU-4', 'ROUGE-L', 'CIDEr','BERTScore','BLEU-1-KPQA', 'ROUGE-L-KPQA', 'BERTScore-KPQA']).T
 
     corr_p = df.corr(method='pearson')
     corr_k = df.corr(method='kendall')

@@ -11,7 +11,6 @@ model_type = 'bert-base-uncased'
 
 _COCO_TYPE_TO_METRIC = {
     "BLEU": (Bleu(4), ["Bleu_1", "Bleu_2", "Bleu_3", "Bleu_4"]),
-    "METEOR": (Meteor(), "METEOR"),
     "ROUGE_L": (Rouge(), "ROUGE_L"),
     "CIDEr": (Cider(), "CIDEr"),
 }
@@ -25,7 +24,7 @@ class COCOEvalCap:
         self.cocoRes = cocoRes
         self.params = {'image_id': coco.getImgIds()}
         self.cocoTypes = cocoTypes
-        self.cocoTypes = ["BLEU", "METEOR", "ROUGE_L"]
+        self.cocoTypes = ["BLEU", "ROUGE_L"]
         self.tokenization_fn = tokenization_fn
     
     def _tokenize(self, caps):
