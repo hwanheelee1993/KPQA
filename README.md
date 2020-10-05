@@ -9,7 +9,9 @@ We provide the code to train KPQA, pretrained model, human annotated data and th
 Install packages using "requirements.txt"
 
 <h3> 2. Download Pretrained Model </h3>
-We provide the pre-trained KPQA model in the following link. (TBD)
+We provide the pre-trained KPQA model in the following link. 
+https://drive.google.com/file/d/1pHQuPhf-LBFTBRabjIeTpKy3KGlMtyzT/view?usp=sharing
+Download the "ckpt.zip" and extract it.
 
 <h3> 3. Compute Metric </h3>
 You can compute KPQA-metric using "compute_correlation.py"
