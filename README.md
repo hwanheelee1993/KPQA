@@ -2,7 +2,7 @@
 
 This repository provides an evaluation metric for generative question answering systems based on our paper [KPQA: A Metric for Generative Question Answering Using Keyphrase Weights](https://arxiv.org/abs/2005.00192). <br> Here, we provide the code to train KPQA, pretrained model, human annotated data and the code to compute KPQA-metric.
 
-The repository will soon be updated in a more useful form.
+The repository will soon be updated until 6/10 in a more useful form using demo in jupyter notebook.(weights will be uploaded to huggingface models)
 
 <h2> Dataset </h2>
 We provide human judgments of correctness for 4 datasets:MS-MARCO NLG, AVSD, Narrative QA and SemEval 2018 Task 11 (SemEval). <br>
