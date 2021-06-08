@@ -1,6 +1,6 @@
 # KPQA
 
-This repository provides an evaluation metric for generative question answering systems based on our paper [KPQA: A Metric for Generative Question Answering Using Keyphrase Weights](https://arxiv.org/abs/2005.00192). <br> Here, we provide the code to train KPQA, pretrained model, human annotated data and the code to compute KPQA-metric.
+This repository provides an evaluation metric for generative question answering systems based on our NAACL 2021 paper [KPQA: A Metric for Generative Question Answering Using Keyphrase Weights](https://www.aclweb.org/anthology/2021.naacl-main.170.pdf). <br> Here, we provide the code to train KPQA, pretrained model, human annotated data and the code to compute KPQA-metric.
 
 The repository will soon be updated until 6/10 in a more useful form using demo in jupyter notebook.(weights will be uploaded to huggingface models)
 
@@ -41,3 +41,17 @@ BERTScore-KPQA  | 0.698      | 0.66 <br><br>
 <h3> Train KPQA (optional) </h3>
 You can train your own KPQA model using the provided dataset or your own dataset using "train.py".<br>
 You can train using the default setting with "train_kpqa.sh"
+
+## Reference
+
+If you find this repo useful, please consider citing:
+
+```
+@inproceedings{lee2021kpqa,
+  title={KPQA: A Metric for Generative Question Answering Using Keyphrase Weights},
+  author={Lee, Hwanhee and Yoon, Seunghyun and Dernoncourt, Franck and Kim, Doo Soon and Bui, Trung and Shin, Joongbo and Jung, Kyomin},
+  booktitle={Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages={2105--2115},
+  year={2021}
+}
+```
