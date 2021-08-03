@@ -25,7 +25,7 @@ Download the "ckpt.zip" and extract it. (default directory is "./ckpt")
 You can compute KPQA-metric using "compute_KPQA.py" as follows. <br><br>
 
 ```
-python compute_correlation.py \
+python compute_KPQA.py \
   --data sample.csv \ # Target data to compute the score. Please see the "sample.csv" for file format
   --model_path $CHECKPOINT_DIR \ # Path of checkpoint directory (extract path of "ckpt.zip")
   --out_file results.csv \ # output file that has score for each question-answer pair. Please see the the sample result in "result.csv".
