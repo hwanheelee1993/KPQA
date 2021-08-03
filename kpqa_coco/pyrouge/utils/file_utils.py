@@ -5,7 +5,8 @@ import re
 import codecs
 import xml.etree.ElementTree as et
 
-from language_evaluation.pyrouge.utils import log
+from pyrouge.utils import log
+#from language_evaluation.pyrouge.utils import log
 
 
 class DirectoryProcessor:
