@@ -163,4 +163,4 @@ if __name__ == "__main__":
     print("## Result")
     print(df_avg)
       
-    df.to_csv('result.csv', index=False)
+    df.to_csv(args.out_file, index=False)
